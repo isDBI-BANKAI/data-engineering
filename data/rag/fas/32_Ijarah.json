@@ -1,0 +1,4417 @@
+[
+  {
+    "text": "AAOIFI Financial Accounting Standard 32\nIjarah",
+    "type": "misc",
+    "keywords": [
+      "AAOIFI",
+      "Financial Accounting Standard",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "Contents ............................................................................................................................................................... 2",
+    "type": "misc",
+    "keywords": [
+      "Contents"
+    ]
+  },
+  {
+    "text": "Preface .................................................................................................................................................................. 6",
+    "type": "misc",
+    "keywords": [
+      "Preface"
+    ]
+  },
+  {
+    "text": "Introduction .......................................................................................................................................................... 7",
+    "type": "misc",
+    "keywords": [
+      "Introduction"
+    ]
+  },
+  {
+    "text": "Overview ........................................................................................................................................................... 7",
+    "type": "misc",
+    "keywords": [
+      "Overview"
+    ]
+  },
+  {
+    "text": "Rationale for issuing this standard ................................................................................................................... 7",
+    "type": "misc",
+    "keywords": [
+      "Rationale",
+      "issuing standard"
+    ]
+  },
+  {
+    "text": "Significant changes from previous standard .................................................................................................... 7",
+    "type": "misc",
+    "keywords": [
+      "Significant changes",
+      "previous standard"
+    ]
+  },
+  {
+    "text": "Objective of the standard ..................................................................................................................................... 9",
+    "type": "misc",
+    "keywords": [
+      "Objective",
+      "standard"
+    ]
+  },
+  {
+    "text": "Scope .................................................................................................................................................................... 9",
+    "type": "misc",
+    "keywords": [
+      "Scope"
+    ]
+  },
+  {
+    "text": "Definitions ............................................................................................................................................................ 9",
+    "type": "misc",
+    "keywords": [
+      "Definitions"
+    ]
+  },
+  {
+    "text": "Identifying (and separating) an Ijarah ................................................................................................................ 12",
+    "type": "misc",
+    "keywords": [
+      "Identifying",
+      "separating",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "Separating components within the Ijarah contract\n................................................................................ 12",
+    "type": "misc",
+    "keywords": [
+      "Separating components",
+      "Ijarah contract"
+    ]
+  },
+  {
+    "text": "Lessee ........................................................................................................................................................ 13",
+    "type": "definition",
+    "keywords": [
+      "Lessee"
+    ]
+  },
+  {
+    "text": "Lessor ......................................................................................................................................... 13",
+    "type": "definition",
+    "keywords": [
+      "Lessor"
+    ]
+  },
+  {
+    "text": "Classification of Ijarah .................................................................................................................................... 13",
+    "type": "misc",
+    "keywords": [
+      "Classification",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "Ijarah term ...................................................................................................................................................... 13",
+    "type": "misc",
+    "keywords": [
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "Assessment of probability of exercising the extension (including non-termination) options .................. 14",
+    "type": "rule",
+    "keywords": [
+      "Assessment",
+      "probability",
+      "exercising extension",
+      "non-termination options"
+    ]
+  },
+  {
+    "text": "Subsequent re-assessment of Ijarah term ................................................................................................ 15",
+    "type": "rule",
+    "keywords": [
+      "Subsequent re-assessment",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "Accounting and financial reporting by the lessee .............................................................................................. 15",
+    "type": "misc",
+    "keywords": [
+      "Accounting",
+      "financial reporting",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Initial recognition ........................................................................................................................................... 15",
+    "type": "treatment",
+    "keywords": [
+      "Initial recognition"
+    ]
+  },
+  {
+    "text": "Advance rentals paid ................................................................................................................................. 15",
+    "type": "treatment",
+    "keywords": [
+      "Advance rentals paid"
+    ]
+  },
+  {
+    "text": "Initial recognition....................................................................................................................................... 15",
+    "type": "treatment",
+    "keywords": [
+      "Initial recognition"
+    ]
+  },
+  {
+    "text": "Initial recognition of right-of-use asset ..................................................................................................... 16",
+    "type": "treatment",
+    "keywords": [
+      "Initial recognition",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Initial recognition of Ijarah liability ............................................................................................................ 16",
+    "type": "treatment",
+    "keywords": [
+      "Initial recognition",
+      "Ijarah liability"
+    ]
+  },
+  {
+    "text": "Special considerations for Ijarah MBT through gradual transfer .............................................................. 16",
+    "type": "misc",
+    "keywords": [
+      "Special considerations",
+      "Ijarah MBT",
+      "gradual transfer"
+    ]
+  },
+  {
+    "text": "Deferred Ijarah cost ................................................................................................................................... 17",
+    "type": "treatment",
+    "keywords": [
+      "Deferred Ijarah cost"
+    ]
+  },
+  {
+    "text": "Prime cost of the right-of-use asset ............................................................................................................... 17",
+    "type": "treatment",
+    "keywords": [
+      "Prime cost",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Underlying asset cost method ................................................................................................................... 17",
+    "type": "treatment",
+    "keywords": [
+      "Underlying asset cost method"
+    ]
+  },
+  {
+    "text": "Estimation based on liability method ........................................................................................................ 17",
+    "type": "treatment",
+    "keywords": [
+      "Estimation",
+      "liability method"
+    ]
+  },
+  {
+    "text": "Subsequent measurement ............................................................................................................................. 17",
+    "type": "treatment",
+    "keywords": [
+      "Subsequent measurement"
+    ]
+  },
+  {
+    "text": "Subsequent measurement of the right-of-use asset ................................................................................. 17",
+    "type": "treatment",
+    "keywords": [
+      "Subsequent measurement",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Amortization of right-of-use asset ............................................................................................................ 18",
+    "type": "treatment",
+    "keywords": [
+      "Amortization",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Impairment of right-of-use asset............................................................................................................... 18",
+    "type": "treatment",
+    "keywords": [
+      "Impairment",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Subsequent measurement of the Ijarah liability ....................................................................................... 18",
+    "type": "treatment",
+    "keywords": [
+      "Subsequent measurement",
+      "Ijarah liability"
+    ]
+  },
+  {
+    "text": "Ijarah contract modifications ......................................................................................................................... 19",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah contract modifications"
+    ]
+  },
+  {
+    "text": "Changes in the Ijarah term or future Ijarah rentals................................................................................... 19",
+    "type": "treatment",
+    "keywords": [
+      "Changes",
+      "Ijarah term",
+      "Ijarah rentals"
+    ]
+  },
+  {
+    "text": "Change in right-of use asset: new Ijarah component ................................................................................ 19",
+    "type": "treatment",
+    "keywords": [
+      "Change",
+      "right-of use asset",
+      "Ijarah component"
+    ]
+  },
+  {
+    "text": "Change in right-of use asset: de-recognition of earlier Ijarah and recognition of a new Ijarah ............... 19",
+    "type": "treatment",
+    "keywords": [
+      "Change",
+      "right-of use asset",
+      "de-recognition",
+      "recognition",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "Expenses related to underlying asset ............................................................................................................. 20",
+    "type": "treatment",
+    "keywords": [
+      "Expenses",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Recognition exemptions and simplified accounting for the lessee ................................................................ 20",
+    "type": "treatment",
+    "keywords": [
+      "Recognition exemptions",
+      "simplified accounting",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Accounting for the exempt Ijarah.............................................................................................................. 20",
+    "type": "treatment",
+    "keywords": [
+      "Accounting",
+      "exempt Ijarah"
+    ]
+  },
+  {
+    "text": "Short-term Ijarah ....................................................................................................................................... 20",
+    "type": "treatment",
+    "keywords": [
+      "Short-term Ijarah"
+    ]
+  },
+  {
+    "text": "Low value Ijarah ......................................................................................................................................... 20",
+    "type": "treatment",
+    "keywords": [
+      "Low value Ijarah"
+    ]
+  },
+  {
+    "text": "Presentation and disclosure ........................................................................................................................... 21",
+    "type": "misc",
+    "keywords": [
+      "Presentation",
+      "disclosure"
+    ]
+  },
+  {
+    "text": "Presentation .............................................................................................................................................. 21",
+    "type": "disclosure",
+    "keywords": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Disclosures ................................................................................................................................................. 21",
+    "type": "disclosure",
+    "keywords": [
+      "Disclosures"
+    ]
+  },
+  {
+    "text": "Accounting and financial reporting by the lessor ............................................................................................... 23",
+    "type": "misc",
+    "keywords": [
+      "Accounting",
+      "financial reporting",
+      "lessor"
+    ]
+  },
+  {
+    "text": "Initial Recognition ........................................................................................................................................... 23",
+    "type": "treatment",
+    "keywords": [
+      "Initial Recognition"
+    ]
+  },
+  {
+    "text": "Advance to vendor .................................................................................................................................... 23",
+    "type": "treatment",
+    "keywords": [
+      "Advance to vendor"
+    ]
+  },
+  {
+    "text": "Advance rentals received .......................................................................................................................... 23",
+    "type": "treatment",
+    "keywords": [
+      "Advance rentals received"
+    ]
+  },
+  {
+    "text": "Timing of recognition of underlying asset ................................................................................................. 23",
+    "type": "rule",
+    "keywords": [
+      "Timing",
+      "recognition",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Recognition of underlying asset ................................................................................................................ 23",
+    "type": "treatment",
+    "keywords": [
+      "Recognition",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Initial direct costs ...................................................................................................................................... 23",
+    "type": "treatment",
+    "keywords": [
+      "Initial direct costs"
+    ]
+  },
+  {
+    "text": "Subsequent measurement ............................................................................................................................. 23",
+    "type": "treatment",
+    "keywords": [
+      "Subsequent measurement"
+    ]
+  },
+  {
+    "text": "Depreciation .............................................................................................................................................. 24",
+    "type": "treatment",
+    "keywords": [
+      "Depreciation"
+    ]
+  },
+  {
+    "text": "Impairment ................................................................................................................................................ 24",
+    "type": "treatment",
+    "keywords": [
+      "Impairment"
+    ]
+  },
+  {
+    "text": "Accounting for commitments .................................................................................................................... 24",
+    "type": "treatment",
+    "keywords": [
+      "Accounting",
+      "commitments"
+    ]
+  },
+  {
+    "text": "Ijarah revenue and costs ................................................................................................................................ 25",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah revenue",
+      "costs"
+    ]
+  },
+  {
+    "text": "Ijarah revenue............................................................................................................................................ 25",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah revenue"
+    ]
+  },
+  {
+    "text": "Applying the effective rate of return method ........................................................................................... 25",
+    "type": "treatment",
+    "keywords": [
+      "effective rate of return method"
+    ]
+  },
+  {
+    "text": "Applying the systematic method for Ijarah MBT through gradual transfer .............................................. 25",
+    "type": "treatment",
+    "keywords": [
+      "systematic method",
+      "Ijarah MBT",
+      "gradual transfer"
+    ]
+  },
+  {
+    "text": "Ijarah costs ................................................................................................................................................. 25",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah costs"
+    ]
+  },
+  {
+    "text": "Presentation and disclosures ......................................................................................................................... 26",
+    "type": "misc",
+    "keywords": [
+      "Presentation",
+      "disclosures"
+    ]
+  },
+  {
+    "text": "Disclosures ...................................................................................................................................................... 26",
+    "type": "disclosure",
+    "keywords": [
+      "Disclosures"
+    ]
+  },
+  {
+    "text": "Ijarah MBT: transfer of underlying asset’s ownership ....................................................................................... 27",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "transfer",
+      "underlying asset",
+      "ownership"
+    ]
+  },
+  {
+    "text": "Timing of recognition of the transfer of underlying asset ............................................................................. 27",
+    "type": "rule",
+    "keywords": [
+      "Timing",
+      "recognition",
+      "transfer",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "4 Ijarah MBT through gradual transfer – special considerations ................................................................. 27 In the books of the purchaser / transferee (previously lessee) ..................................................................... 28 After completion of the Ijarah term .......................................................................................................... 28 Ijarah MBT through gradual transfer – special considerations ................................................................. 28 De-recognition in the books of the seller / transferor (previously lessor) ..................................................... 28 Ijarah MBT through gradual transfer – special considerations ................................................................. 28 Transfer of underlying assets with early termination / settlement of Ijarah ................................................. 28 In the books of the purchaser / transferee (previously lessee) ................................................................ 28 In the books of the seller / transferor (previously lessor) ......................................................................... 29 Sale and Ijarah-back transactions ....................................................................................................................... 29 Sale of the asset.............................................................................................................................................. 29 Accounting for the sale of the asset – by seller-lessee .................................................................................. 29 Accounting for the buyer-lessor ..................................................................................................................... 30 Other related accounting treatments ................................................................................................................ 30 Forward Ijarah ................................................................................................................................................ 30 Hamish Jiddiyyah (security deposit) ............................................................................................................... 30 Charity ............................................................................................................................................................ 30 Effective date ...................................................................................................................................................... 30 Transitional provisions ....................................................................................................................................... 30 Amendments to other standards ....................................................................................................................... 31 Appendices ....................................................................................................................................................... 32 Appendix A: Adoption of the standard ............................................................................................................... 32 Members of the board ................................................................................................................................... 32 Reservation ..................................................................................................................................................... 32 Working group members ............................................................................................................................... 33 Executive team ............................................................................................................................................... 33 Appendix B: Basis for conclusions ...................................................................................................................... 34 Reason for revision of the standard ............................................................................................................... 34 Scope exclusion – service Ijarah ..................................................................................................................... 34 Key distinguishing factors between an Ijarah MBT and conventional finance lease ..................................... 34 Key distinguishing factors - Shari’ah perspective ...................................................................................... 35 Operating Ijarah .............................................................................................................................................. 36 Accounting for usufruct / right-of-use asset .................................................................................................. 36 Acceptability of usufruct / right-of-use asset from Shari’ah perspective ................................................. 36",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "Accounting",
+      "Financial reporting"
+    ]
+  },
+  {
+    "text": "5 Recognition of right-of-use asset, its amortization and residual value .......................................................... 37 Subsequent measurement – use of fair valuation for right-of-use asset ...................................................... 38 Ijarah MBT through gradual transfer / Diminishing Musharaka Ijarah .......................................................... 38 Ijarah commencement date vs. inception date – issue of future Ijarah ........................................................ 38 Accounting and financial reporting by the Lessor .......................................................................................... 39 Deposits and Hamish Jiddiyah ........................................................................................................................ 39 Lease term and extension options ................................................................................................................. 39 Appendix C: Brief history of the preparation of the standard ........................................................................... 40 AAOIFI Financial Accounting Standard (FAS) 32 “Ijarah” is set out in paragraphs 01-112. All the paragraphs have equal authority. This standard should be read in the context of its objective and the Conceptual Framework for Financial Reporting as endorsed by AAOIFI.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "Financial reporting",
+      "right-of-use asset",
+      "AAOIFI"
+    ]
+  },
+  {
+    "text": "All AAOIFI FASs shall be read in conjunction with the definitions, Shari’ah principles and rules and key considerations provided by AAOIFI Shari’ah Standards (SS) in respect of such products and matters.",
+    "type": "misc",
+    "keywords": [
+      "AAOIFI",
+      "Shari’ah principles",
+      "AAOIFI Shari’ah Standards (SS)"
+    ]
+  },
+  {
+    "text": "6 Preface PR1 Ijarah and Ijarah Muntahia Bittamleek (Ijarah MBT) in their different forms are amongst the most common Islamic finance transactions. These are used commonly by Islamic financial institutions (the institutions) for providing assets to customers in need of financial resources for acquiring such assets in different sectors. A significant proportion of underlying assets in Sukuk structures are also based on such transactions.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "Ijarah MBT",
+      "Islamic finance",
+      "Sukuk"
+    ]
+  },
+  {
+    "text": "PR2 AAOIFI Accounting Board (AAB / the board), in its strive for improvements of the existing financial reporting standards, decided to revise the existing Financial Accounting Standard (FAS) 8 “Ijarah and Ijarah Muntahia Bittamleek” in order to address the issues faced by the market and observations noted over the past several years, as well as, to improve the existing accounting treatments in line with the global best practices. This standard accordingly supersedes the existing FAS 8 “Ijarah and Ijarah Muntahia Bittamleek”.",
+    "type": "misc",
+    "keywords": [
+      "AAOIFI Accounting Board (AAB)",
+      "Financial Accounting Standard (FAS) 8",
+      "Ijarah",
+      "Ijarah Muntahia Bittamleek"
+    ]
+  },
+  {
+    "text": "PR3 This standard brings a fundamental shift in the accounting approach for Ijarah transactions, particularly, in the hand of the lessee. In contrast to the earlier accounting approach of the off- balance sheet accounting for Ijarah, the new standard prescribes an altogether different model of accounting in the hand of lessee which entails recognition of the lessee’s unencumbered right to the benefits from the use of the asset as ‘right-of-use asset’ and its corresponding liability.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "Lessee",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "PR4 It is expected that the new standard will improve the overall accounting and financial reporting practices of the Islamic finance industry and will bring the same closer to the global best practices, without any compromise on Shari'ah principles or the essence of the transaction.",
+    "type": "misc",
+    "keywords": [
+      "Islamic finance",
+      "Shari'ah principles",
+      "accounting",
+      "financial reporting"
+    ]
+  },
+  {
+    "text": "This standard improves upon and supersedes AAOIFI’s Financial Accounting Standard (FAS) 8 “Ijarah and Ijarah Muntahia Bittamleek” originally issued in 1997. This standard aims at setting out principles for the classification, recognition, measurement, presentation and disclosure of Ijarah type transactions including their different forms entered into by an institution, in both the capacities of lessor and lessee.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "AAOIFI",
+      "FAS 8",
+      "classification",
+      "recognition",
+      "measurement",
+      "presentation",
+      "disclosure",
+      "lessor",
+      "lessee"
+    ]
+  },
+  {
+    "text": "The AAOIFI Accounting Board (AAB/ the board), after its constitution in 2015, approved a strategy and plan for improvement in and revision of a significant number of existing FASs. Revision of FAS 8 “Ijarah and Ijarah Muntahia Bittamleek” was already on agenda of the earlier board, and a limited scope revision was already under discussion at the accounting standards committee.",
+    "type": "historical",
+    "keywords": [
+      "AAOIFI Accounting Board",
+      "AAB",
+      "FAS 8",
+      "Ijarah",
+      "revision",
+      "accounting standards committee"
+    ]
+  },
+  {
+    "text": "However, considering the expected changes, at that time, in the generally accepted accounting principles with regard to lease accounting1, it was decided that the standard revision shall be made duly considering the principal changes in accounting by the global accounting standard setters.",
+    "type": "historical",
+    "keywords": [
+      "lease accounting",
+      "accounting principles",
+      "standard revision",
+      "global accounting standard setters"
+    ]
+  },
+  {
+    "text": "The board was also mindful of the fact that eliminating or reducing the financial reporting requirements with regard to any demonstrable differences between Ijarah and Ijarah MBT against conventional leases will jeopardize the sanctity of the transaction’s financial reporting and may also adversely impact the reputation of the Islamic finance industry.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "Ijarah MBT",
+      "financial reporting",
+      "Islamic finance industry"
+    ]
+  },
+  {
+    "text": "A review of FAS 8 “Ijarah and Ijarah Muntahia Bittamleek” and preliminary study on the topic duly considering the above factors identified that there were needs for improvement in the same in line with the changes in the industry and the global best practices of accounting.",
+    "type": "historical",
+    "keywords": [
+      "FAS 8",
+      "Ijarah",
+      "industry changes",
+      "global best practices",
+      "accounting"
+    ]
+  },
+  {
+    "text": "Certain observations and comments of certain terminology and approaches used in the said standard were noted from the Shari'ah perspective as well.",
+    "type": "misc",
+    "keywords": [
+      "Shari'ah",
+      "terminology",
+      "approaches",
+      "standard"
+    ]
+  },
+  {
+    "text": "Accordingly, the board decided to issue a revised standard on the subject of Ijarah.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "revised standard"
+    ]
+  },
+  {
+    "text": "This standard (FAS 32) brings significant changes from its predecessor standard (FAS 8), inter alia, in the following aspects: a. changes in the classification. Ijarah transactions under in this standard are classified into the following:",
+    "type": "misc",
+    "keywords": [
+      "FAS 32",
+      "FAS 8",
+      "Ijarah",
+      "classification"
+    ]
+  },
+  {
+    "text": "operating Ijarah; Ijarah MBT with expected transfer of ownership after the end of the Ijarah term – either through a sale or gift; and",
+    "type": "misc",
+    "keywords": [
+      "operating Ijarah",
+      "Ijarah MBT",
+      "ownership transfer"
+    ]
+  },
+  {
+    "text": "Ijarah MBT with gradual transfer – with gradual transfer ownership during the Ijarah term including Diminishing Musharaka Ijarah; b. new recognition and measurement principles for initial recognition for right-of-use asset, Ijarah liability and advance payments for lessee and lessor accounting;",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "Diminishing Musharaka Ijarah",
+      "right-of-use asset",
+      "Ijarah liability",
+      "lessor accounting",
+      "lessee accounting"
+    ]
+  },
+  {
+    "text": "c. requirement to identify and separate Ijarah and non-Ijarah components, if needed; d. new recognition and measurement principles for an Ijarah MBT through gradual transfer / Diminishing Musharaka Ijarah, whereby the lessee shall recognize the ‘combined asset’ (including the right-of-use asset and the proportionate asset already owned by the lessee) whereas the lessor shall recognize the proportionate asset owned.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "Ijarah MBT",
+      "Diminishing Musharaka Ijarah",
+      "combined asset",
+      "right-of-use asset",
+      "lessor",
+      "lessee"
+    ]
+  },
+  {
+    "text": "FAS 8 requirements of recording monthly depreciation and gain and loss for such transactions are done away with; e. allowing effective rate of return/ profit rate method for accounting for rental income, in the hand of the lessor; f. testing for impairment of right-of-use asset shall be subject to requirements of FAS 30 “Impairment, Credit Losses and Onerous Commitments”; and",
+    "type": "misc",
+    "keywords": [
+      "FAS 8",
+      "depreciation",
+      "gain and loss",
+      "rental income",
+      "lessor",
+      "right-of-use asset",
+      "FAS 30",
+      "Impairment",
+      "Credit Losses"
+    ]
+  },
+  {
+    "text": "g. detailed guidelines are provided for presentation and disclosures with enhanced disclosure by lessor and lessee of information as compared to previous requirements in FAS 8.",
+    "type": "misc",
+    "keywords": [
+      "disclosure",
+      "lessor",
+      "lessee",
+      "FAS 8"
+    ]
+  },
+  {
+    "text": "The objective of this standard is to set out principles for the classification, recognition, measurement, presentation and disclosure for Ijarah (asset Ijarah, including different forms of Ijarah Muntahia Bittamleek) transactions entered into by the Islamic financial institutions (the institutions) on both ends of the transaction i.e. as a lessor and lessee.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "classification",
+      "recognition",
+      "measurement",
+      "presentation",
+      "disclosure",
+      "lessor",
+      "lessee",
+      "Islamic financial institutions"
+    ]
+  },
+  {
+    "text": "An institution shall consider the terms and conditions of the contracts and all relevant facts and circumstances when applying this standard and shall apply the same on a consistent basis.",
+    "type": "rule",
+    "keywords": [
+      "terms and conditions",
+      "contracts",
+      "consistent basis"
+    ]
+  },
+  {
+    "text": "This standard shall apply for accounting and financial reporting for a lessor or lessee, for all Ijarah (asset Ijarah, including Ijarah Muntahia Bittamleek (Ijarah MBT)) transactions unless specifically excluded under paragraph 3.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah",
+      "lessor",
+      "lessee",
+      "accounting",
+      "financial reporting",
+      "Ijarah MBT"
+    ]
+  },
+  {
+    "text": "This standard shall not be applied for accounting of: a. Sukuk based on Ijarah which shall be subject to accounting under respective FAS; b. Ijarah transactions for exploration, extraction, harvesting and otherwise use and sale of natural resources; and c. service Ijarah transactions including employment / labour contracts and hiring of professional services and other service based contracts (not involving tangible assets), including intellectual property and detachable rights.",
+    "type": "rule",
+    "keywords": [
+      "Sukuk",
+      "Ijarah",
+      "natural resources",
+      "service Ijarah",
+      "intangible assets"
+    ]
+  },
+  {
+    "text": "For the purpose of interpreting and applying this standard, the following short definitions are relevant: a. Combined asset – is an underlying asset subject to Ijarah MBT through gradual transfer, or any other form of Ijarah MBT, in which proportionate ownership and right-of-use co-exist on the same asset; b. Commencement date – is the date on which the lessor makes an underlying asset available for use by the lessee, in a condition suitable for intended purpose and use;",
+    "type": "definition",
+    "keywords": [
+      "Combined asset",
+      "Ijarah MBT",
+      "Commencement date",
+      "lessor",
+      "lessee"
+    ]
+  },
+  {
+    "text": "c. Contract – is an agreement between two or more parties that creates enforceable rights and obligations; d. Control – an institution controls an asset or business, when it has substantially all risks and rewards incidental to ownership of such asset or business, duly meeting both of the following conditions:",
+    "type": "definition",
+    "keywords": [
+      "Contract",
+      "Control",
+      "risks and rewards"
+    ]
+  },
+  {
+    "text": "it is directly exposed to, or has rights to, variable returns (negative or positive, respectively) from its involvement with such assets or business; and",
+    "type": "definition",
+    "keywords": [
+      "variable returns",
+      "assets",
+      "business"
+    ]
+  },
+  {
+    "text": "it has the ability to affect those returns through its power over the assets or business;",
+    "type": "misc",
+    "keywords": [
+      "ability to affect returns",
+      "power",
+      "assets",
+      "business"
+    ]
+  },
+  {
+    "text": "Deferred Ijarah cost – shall be as defined in paragraph 29;",
+    "type": "definition",
+    "keywords": [
+      "Deferred Ijarah cost",
+      "definition"
+    ]
+  },
+  {
+    "text": "Diminishing Musharaka (Shirkat-ul-Milk) Ijarah – is a hybrid Ijarah product similar to ‘Ijarah Muntahia Bittamleek through gradual transfer’ comprising of: a co-ownership in which two parties share the ownership of a tangible asset in an agreed proportion (without intention to engage in common business with respect to such asset); and a promise under which one of the co-owners undertakes to buy in periodic installments the proportionate share of the other co-owner until the ownership / title to such tangible asset is completely transferred to the purchasing co-owner (whereby each transaction takes place as a sale); and a separate Ijarah contract, whereby one co-owner (lessor) rents out its proportionate share in the asset to the other co-owner (lessee);",
+    "type": "definition",
+    "keywords": [
+      "Diminishing Musharaka Ijarah",
+      "hybrid Ijarah",
+      "co-ownership",
+      "tangible asset",
+      "promise",
+      "sale",
+      "Ijarah contract",
+      "lessor",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Effective rate of return method [also referred to as effective profit rate method] – is a method of allocating income from an asset or venture uniformly, and equitably over the contractual (or expected) period of expected benefit from the asset or continuity of venture.",
+    "type": "definition",
+    "keywords": [
+      "Effective rate of return method",
+      "effective profit rate method",
+      "allocating income",
+      "asset",
+      "venture",
+      "contractual period",
+      "expected benefit"
+    ]
+  },
+  {
+    "text": "This method allocates the cash flows from asset or venture through a uniform rate of return including all cash flows considering all contractual terms (or best expectations) excluding expected future losses.",
+    "type": "treatment",
+    "keywords": [
+      "cash flows",
+      "uniform rate of return",
+      "contractual terms",
+      "expected future losses"
+    ]
+  },
+  {
+    "text": "Any fee paid or received, the transaction costs, premiums or discounts are included in the cash flows insofar as these are part of the base contract, or are ancillary costs;",
+    "type": "treatment",
+    "keywords": [
+      "fee",
+      "transaction costs",
+      "premiums",
+      "discounts",
+      "cash flows",
+      "base contract",
+      "ancillary costs"
+    ]
+  },
+  {
+    "text": "Fair value – is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date;",
+    "type": "definition",
+    "keywords": [
+      "Fair value",
+      "price",
+      "asset",
+      "liability",
+      "market participants",
+      "measurement date"
+    ]
+  },
+  {
+    "text": "Fixed Ijarah rentals – are fixed Ijarah rentals paid by a lessee to a lessor for the right to use an underlying asset during the Ijarah term, excluding variable Ijarah rentals, and include in-substance fixed Ijarah rentals;",
+    "type": "definition",
+    "keywords": [
+      "Fixed Ijarah rentals",
+      "lessee",
+      "lessor",
+      "underlying asset",
+      "Ijarah term",
+      "variable Ijarah rentals",
+      "in-substance fixed Ijarah rentals"
+    ]
+  },
+  {
+    "text": "Forward Ijarah (Ijarah Mawsufah fi al-Dhimma) – is an Ijarah contract for an unidentified (and at times, presently non-existent) asset undertaken by the lessor to be delivered to the lessee according to the agreed specifications;",
+    "type": "definition",
+    "keywords": [
+      "Forward Ijarah",
+      "Ijarah Mawsufah fi al-Dhimma",
+      "Ijarah contract",
+      "unidentified asset",
+      "lessor",
+      "lessee",
+      "specifications"
+    ]
+  },
+  {
+    "text": "Hamish Jiddiyyah (security deposit) – is the amount deposited as a security against fulfillment of a contract, or promise, or completion of a transaction by one of the parties to other;",
+    "type": "definition",
+    "keywords": [
+      "Hamish Jiddiyyah",
+      "security deposit",
+      "security",
+      "contract",
+      "promise",
+      "transaction"
+    ]
+  },
+  {
+    "text": "Ijarah – is a contract, or part of contractual arrangement, that transfers the usufruct of an asset (the underlying asset) for a period of time in exchange for an agreed consideration, from a lessor (the owner of the underlying asset) to a lessee.",
+    "type": "definition",
+    "keywords": [
+      "Ijarah",
+      "contract",
+      "usufruct",
+      "asset",
+      "underlying asset",
+      "period of time",
+      "consideration",
+      "lessor",
+      "lessee"
+    ]
+  },
+  {
+    "text": "It has three major elements: a form – which includes an offer and an acceptance; two parties – a lessor and a lessee; and the object of the (Ijarah) contract – which includes the rental amount and the service benefit;",
+    "type": "definition",
+    "keywords": [
+      "elements",
+      "form",
+      "offer",
+      "acceptance",
+      "parties",
+      "lessor",
+      "lessee",
+      "object",
+      "rental amount",
+      "service benefit"
+    ]
+  },
+  {
+    "text": "Ijarah contract modification – is a change (with mutual consent of the parties) in the scope of an Ijarah, or the consideration for an Ijarah, that was not part of the original terms and conditions of the Ijarah (for example, adding or terminating the right to use one or more underlying assets, or extending or shortening the contractual Ijarah term);",
+    "type": "definition",
+    "keywords": [
+      "Ijarah contract modification",
+      "change",
+      "mutual consent",
+      "scope of Ijarah",
+      "consideration",
+      "original terms",
+      "underlying assets",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "Ijarah Muntahia Bittamleek (Ijarah MBT) – is a hybrid Ijarah arrangement which, in addition to the Ijarah contract, includes a promise resulting in transfer of the ownership of the underlying asset to the lessee, either after the end of the term of the Ijarah period or by stages during the term of the contract.",
+    "type": "definition",
+    "keywords": [
+      "Ijarah Muntahia Bittamleek",
+      "Ijarah MBT",
+      "hybrid Ijarah",
+      "Ijarah contract",
+      "promise",
+      "transfer of ownership",
+      "lessee",
+      "Ijarah period",
+      "contract"
+    ]
+  },
+  {
+    "text": "Such transfer of the ownership is executed through a sale or a gift, or a series of sales transactions – independent of Ijarah contract;",
+    "type": "misc",
+    "keywords": [
+      "transfer of ownership",
+      "sale",
+      "gift",
+      "sales transactions",
+      "Ijarah contract"
+    ]
+  },
+  {
+    "text": "Ijarah rentals (Ujra) – represent consideration due to the lessor from lessee against transfer of the usufruct (right-of-use) and includes fixed rentals including in-substance fixed rentals, and variable rentals, but does not include any consideration paid or promised for transfer of ownership or proportionate ownership, either as lump sum or as a gradual payment or as a residual value guarantee;",
+    "type": "definition",
+    "keywords": [
+      "Ijarah rentals",
+      "Ujra",
+      "consideration",
+      "lessor",
+      "lessee",
+      "usufruct",
+      "right-of-use",
+      "fixed rentals",
+      "in-substance fixed rentals",
+      "variable rentals",
+      "transfer of ownership",
+      "proportionate ownership",
+      "lump sum",
+      "gradual payment",
+      "residual value guarantee"
+    ]
+  },
+  {
+    "text": "Ijarah term – represents the binding period covered by the Ijarah contract, as well as, the reasonably certain optional periods (see paragraph 13);",
+    "type": "definition",
+    "keywords": [
+      "Ijarah term",
+      "Ijarah contract",
+      "optional periods"
+    ]
+  },
+  {
+    "text": "Initial direct costs – are the incremental costs of executing an Ijarah transaction incurred solely and necessarily for the purpose of execution of the Ijarah transaction e.g. costs borne by the lessor on feasibility study, credit assessment or documentation etc.",
+    "type": "definition",
+    "keywords": [
+      "Initial direct costs",
+      "Ijarah transaction",
+      "lessor",
+      "feasibility study",
+      "credit assessment",
+      "documentation"
+    ]
+  },
+  {
+    "text": "These do include any regulatory costs borne by a manufacturer or dealer lessor for entering an Ijarah MBT transaction;",
+    "type": "misc",
+    "keywords": [
+      "regulatory costs",
+      "manufacturer",
+      "dealer lessor",
+      "Ijarah MBT transaction"
+    ]
+  },
+  {
+    "text": "In-substance fixed Ijarah rentals – in-substance fixed Ijarah rentals are rentals that may, in form, contain variability but that, in substance, are unavoidable but do not include any conditions against sale or transfer of ownership of the underlying asset;",
+    "type": "definition",
+    "keywords": [
+      "In-substance fixed Ijarah rentals",
+      "rentals",
+      "variability",
+      "unavoidable",
+      "sale",
+      "transfer of ownership",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Lessee – is a party in Ijarah contract that acquires the usufruct of an underlying asset for a period of time in exchange for an agreed consideration;",
+    "type": "definition",
+    "keywords": [
+      "Lessee",
+      "Ijarah contract",
+      "usufruct",
+      "underlying asset",
+      "period of time",
+      "consideration"
+    ]
+  },
+  {
+    "text": "Lessor – is a party in Ijarah contract that transfers the usufruct of an underlying asset for a period of time in exchange for an agreed consideration;",
+    "type": "definition",
+    "keywords": [
+      "Lessor",
+      "Ijarah contract",
+      "usufruct",
+      "underlying asset",
+      "period of time",
+      "consideration"
+    ]
+  },
+  {
+    "text": "Onerous commitment – is a commitment, in which the unavoidable costs of meeting the obligations under the commitment, exceed the economic benefits expected to be received under it;",
+    "type": "definition",
+    "keywords": [
+      "Onerous commitment",
+      "commitment",
+      "unavoidable costs",
+      "obligations",
+      "economic benefits"
+    ]
+  },
+  {
+    "text": "Operating Ijarah – is an Ijarah that is not accompanied with an option of transfer of ownership of the underlying asset to the lessee;",
+    "type": "definition",
+    "keywords": [
+      "Operating Ijarah",
+      "Ijarah",
+      "transfer of ownership",
+      "underlying asset",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Residual value of right-of-use assets (for lessee) – is the amount, if any, expected to be recovered for these assets computed in accordance with paragraph 37;",
+    "type": "definition",
+    "keywords": [
+      "Residual value",
+      "right-of-use assets",
+      "lessee",
+      "assets",
+      "paragraph 37"
+    ]
+  },
+  {
+    "text": "Residual value of underlying assets (for lessor) – is the amount which is expected to be recovered for these assets at the end of their useful life, net of the expected cost of disposal.",
+    "type": "definition",
+    "keywords": [
+      "Residual value",
+      "underlying assets",
+      "lessor",
+      "useful life",
+      "cost of disposal"
+    ]
+  },
+  {
+    "text": "Residual value of underlying assets is to be estimated at the commencement of the Ijarah;",
+    "type": "misc",
+    "keywords": [
+      "Residual value",
+      "underlying assets",
+      "commencement of Ijarah"
+    ]
+  },
+  {
+    "text": "Right-of-use asset (usufruct asset) – is a kind of intangible assets that represents a lessee’s legally enforceable right-of-use (or control of usufruct) of an underlying asset (normally being a tangible asset) for the Ijarah term, and includes a ‘combined asset’ for the purpose of application of this standard;",
+    "type": "definition",
+    "keywords": [
+      "Right-of-use asset",
+      "usufruct asset",
+      "intangible assets",
+      "lessee",
+      "right-of-use",
+      "usufruct",
+      "underlying asset",
+      "tangible asset",
+      "Ijarah term",
+      "combined asset",
+      "standard"
+    ]
+  },
+  {
+    "text": "Short-term Ijarah – is an operating Ijarah that, at the commencement date, has an Ijarah term of 12 months or less;",
+    "type": "definition",
+    "keywords": [
+      "Short-term Ijarah",
+      "operating Ijarah",
+      "commencement date",
+      "Ijarah term",
+      "12 months or less"
+    ]
+  },
+  {
+    "text": "Sub-Ijarah – is an Ijarah transaction for which an acquired right-of-use asset is transferred on an independent Ijarah basis by a lessee (‘intermediary lessor’) to a third party, and the original Ijarah contract (‘head-Ijarah’) between the head-lessor and lessee remains in effect;",
+    "type": "definition",
+    "keywords": [
+      "Sub-Ijarah",
+      "Ijarah transaction",
+      "right-of-use asset",
+      "Ijarah",
+      "lessee",
+      "intermediary lessor",
+      "third party",
+      "Ijarah contract",
+      "head-Ijarah",
+      "head-lessor"
+    ]
+  },
+  {
+    "text": "Underlying asset – is an asset that is the subject of an Ijarah contract, for which the usufruct has been transferred by a lessor to a lessee;",
+    "type": "definition",
+    "keywords": [
+      "Underlying asset",
+      "asset",
+      "Ijarah contract",
+      "usufruct",
+      "lessor",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Useful economic life – is the period over which an asset is expected to be available for use or the number of production units or usage units etc. expected to be obtained/ utilized from an asset;",
+    "type": "definition",
+    "keywords": [
+      "Useful economic life",
+      "asset",
+      "production units",
+      "usage units"
+    ]
+  },
+  {
+    "text": "Usufruct – is a legally enforceable limited right related to an asset including the two property interests of (i) usus (use), being the right to use or enjoy such asset and (ii) fructus (fruit), being the right to derive profit or benefit from such asset, but does not entail risks and rewards incidental to ownership;",
+    "type": "definition",
+    "keywords": [
+      "Usufruct",
+      "legally enforceable right",
+      "asset",
+      "usus",
+      "use",
+      "fructus",
+      "fruit",
+      "profit",
+      "benefit",
+      "risks",
+      "rewards",
+      "ownership"
+    ]
+  },
+  {
+    "text": "Variable Ijarah rentals – are the portion of rentals paid by a lessee to a lessor for the right to use an underlying asset during the Ijarah term that varies because of changes in facts or circumstances occurring after the commencement date, other than the lapse of time (see paragraph 26).",
+    "type": "definition",
+    "keywords": [
+      "Variable Ijarah rentals",
+      "rentals",
+      "lessee",
+      "lessor",
+      "underlying asset",
+      "Ijarah term",
+      "facts",
+      "circumstances",
+      "commencement date",
+      "lapse of time"
+    ]
+  },
+  {
+    "text": "Identifying (and separating) an Ijarah 5. At inception of a contract, an institution shall assess whether the contract is, or contains, an Ijarah.",
+    "type": "rule",
+    "keywords": [
+      "Identifying an Ijarah",
+      "inception of a contract",
+      "institution",
+      "assess",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "A contract is, or contains, an Ijarah if the contract transfers the usufruct (but not control) of an identified asset for a period of time in exchange for an agreed consideration.",
+    "type": "rule",
+    "keywords": [
+      "contract",
+      "Ijarah",
+      "transfers usufruct",
+      "identified asset",
+      "period of time",
+      "consideration"
+    ]
+  },
+  {
+    "text": "Where applicable, the period of time may be agreed in terms of usage factors, rather than the lapse of time factor alone.",
+    "type": "misc",
+    "keywords": [
+      "period of time",
+      "usage factors",
+      "lapse of time"
+    ]
+  },
+  {
+    "text": "6. An institution shall reassess whether a contract is, or contains, an Ijarah only if the terms and conditions of the contract are changed.",
+    "type": "rule",
+    "keywords": [
+      "reassess",
+      "contract",
+      "Ijarah",
+      "terms and conditions",
+      "contract"
+    ]
+  },
+  {
+    "text": "Separating components within the Ijarah contract 7. For a contract that is, or contains, an Ijarah, an institution shall account for each Ijarah component within the contract as an Ijarah separately from non-Ijarah components (e.g. service fee,",
+    "type": "rule",
+    "keywords": [
+      "Separating components",
+      "Ijarah contract",
+      "contract",
+      "Ijarah",
+      "Ijarah component",
+      "non-Ijarah components",
+      "service fee"
+    ]
+  },
+  {
+    "text": "13\nmaintenance charges, toll manufacturing charges etc.) of the contract, unless the institution applies\nthe simplified approach as defined in paragraph 10.",
+    "type": "rule",
+    "keywords": [
+      "maintenance charges",
+      "toll manufacturing charges",
+      "simplified approach"
+    ]
+  },
+  {
+    "text": "8.\nUnless the simplified approach under paragraph 10 is applied, a lessee shall account for non-Ijarah\ncomponents applying relevant FAS, or generally accepted accounting principles, in absence thereof,\nsubject to the condition that such accounting policy shall be in line with the Shari'ah principles and\nrules.",
+    "type": "rule",
+    "keywords": [
+      "simplified approach",
+      "non-Ijarah components",
+      "FAS",
+      "generally accepted accounting principles",
+      "Shari'ah principles"
+    ]
+  },
+  {
+    "text": "Lessee",
+    "type": "misc",
+    "keywords": [
+      "Lessee"
+    ]
+  },
+  {
+    "text": "9.\nFor a contract that contains an Ijarah component and one or more additional Ijarah or non-Ijarah\ncomponents, a lessee shall allocate the consideration in the contract to each Ijarah component on\nthe basis of the relative estimated stand-alone price of the Ijarah component and the aggregate\nestimated stand-alone price of the non-Ijarah components, that may be charged by the lessor, or a\nsimilar supplier, to the lessee.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah component",
+      "non-Ijarah components",
+      "consideration allocation",
+      "stand-alone price"
+    ]
+  },
+  {
+    "text": "10.\nAs an alternate, a lessee may adopt a simplified approach whereby the lessee may elect, by class of\nunderlying asset, not to separate non-Ijarah components from Ijarah components, and instead\naccount for each Ijarah component and any associated non-Ijarah components as a single Ijarah\ncomponent.",
+    "type": "rule",
+    "keywords": [
+      "simplified approach",
+      "non-Ijarah components",
+      "Ijarah components",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Lessor",
+    "type": "misc",
+    "keywords": [
+      "Lessor"
+    ]
+  },
+  {
+    "text": "11.\nFor a contract that contains an Ijarah component and one or more additional Ijarah or non-Ijarah\ncomponents, a lessor shall allocate the consideration in the contract to each Ijarah and non-Ijarah\ncomponent (performance obligation identified in the contract) on an estimated relative stand-alone\nprice basis. In case of similar characteristics of different Ijarah components, the lessor may opt to\nconsider the same as a single Ijarah component.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah component",
+      "non-Ijarah components",
+      "consideration allocation",
+      "stand-alone price",
+      "performance obligation"
+    ]
+  },
+  {
+    "text": "Classification of Ijarah",
+    "type": "misc",
+    "keywords": [
+      "Classification of Ijarah"
+    ]
+  },
+  {
+    "text": "12.\nAn institution, in its capacity either as a lessor or lessee, shall classify each of its Ijarah as:\na.\nan operating Ijarah (see paragraph 4(v));\nb.\nan Ijarah MBT (see paragraph 4(n)), including the following types:\nan Ijarah MBT – with expected transfer of ownership after the end of the Ijarah term\n– either through a sale or a gift; or\nan Ijarah MBT with gradual transfer – with gradual transfer of ownership during the\nIjarah term (including Diminishing Musharaka Ijarah).",
+    "type": "rule",
+    "keywords": [
+      "Ijarah classification",
+      "operating Ijarah",
+      "Ijarah MBT",
+      "transfer of ownership"
+    ]
+  },
+  {
+    "text": "Ijarah term",
+    "type": "misc",
+    "keywords": [
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "13.\nAn institution, in its capacity of either a lessor or lessee, shall determine the Ijarah term, including\nthe contractually binding period (which may be denoted in terms of units of production or\nconsumption), as well as, the reasonably certain optional periods including:\na.\nextension options (periods covered by an option to extend the Ijarah) – if it is reasonably\ncertain that the lessee will exercise that option; and / or",
+    "type": "rule",
+    "keywords": [
+      "Ijarah term",
+      "contractually binding period",
+      "extension options"
+    ]
+  },
+  {
+    "text": "14\nb.\ntermination options (periods covered by an option to terminate the Ijarah) – if it is\nreasonably certain that the lessee will not exercise that option.",
+    "type": "rule",
+    "keywords": [
+      "termination options",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "Assessment of probability of exercising the extension (including non-termination) options",
+    "type": "misc",
+    "keywords": [
+      "extension options",
+      "termination options",
+      "probability assessment"
+    ]
+  },
+  {
+    "text": "14.\nIn assessing the probability of extension of Ijarah term in line with paragraph 13(a) or 13(b), an\ninstitution shall consider all relevant facts and circumstances that create an economic incentive for\nsuch extension, including the following:\na.\nas to whether the contractual terms and conditions for the optional periods are at market\nrates, such as:\nthe amount of rentals for the Ijarah in any optional period;\nthe amount of any variable rentals for the Ijarah or other contingent payments, such\nas payments resulting from termination penalties and promise to purchase; and\nthe terms and conditions of any options that are exercisable after optional periods\n(for example, a purchase option that is exercisable at the end of an extension period\nat a rate that is currently below market rates or transfer of asset through gift);",
+    "type": "rule",
+    "keywords": [
+      "Ijarah term extension",
+      "economic incentive",
+      "contractual terms",
+      "market rates",
+      "rentals",
+      "termination penalties",
+      "purchase option"
+    ]
+  },
+  {
+    "text": "b.\nsignificant improvements over the underlying assets (leasehold improvements) undertaken\n(or expected to be undertaken) over the term of the contract that are expected to have\nsignificant economic benefit for the lessee when the option to extend or terminate the\nIjarah, or to purchase the underlying asset, becomes exercisable;",
+    "type": "rule",
+    "keywords": [
+      "leasehold improvements",
+      "economic benefit",
+      "option to extend",
+      "option to terminate",
+      "purchase"
+    ]
+  },
+  {
+    "text": "c.\ncosts relating to the termination of the Ijarah, such as negotiation costs, relocation costs,\ncosts of identifying another underlying asset suitable for the lessee’s needs, costs of\nintegrating a new asset into the lessee’s operations, or termination penalties and similar\ncosts, including costs associated with returning the underlying asset in a contractually\nspecified condition or to a contractually specified location;",
+    "type": "rule",
+    "keywords": [
+      "termination costs",
+      "negotiation costs",
+      "relocation costs",
+      "termination penalties"
+    ]
+  },
+  {
+    "text": "d.\nthe importance of that underlying asset to the lessee’s operations, considering, for example,\nwhether the underlying asset is a specialized asset, the location of the underlying asset and\nthe availability of suitable alternatives; and",
+    "type": "rule",
+    "keywords": [
+      "underlying asset",
+      "specialized asset",
+      "asset location",
+      "suitable alternatives"
+    ]
+  },
+  {
+    "text": "e.\nconditions associated with exercising the option (i.e. when the option can be exercised only\nif one or more conditions are met), and the likelihood that those conditions will exist.",
+    "type": "rule",
+    "keywords": [
+      "exercising the option",
+      "conditions"
+    ]
+  },
+  {
+    "text": "15.\nIt would generally be considered that the lessee is reasonably certain to exercise the extension\noption if:\na.\nan option to extend or terminate an Ijarah is combined with one or more other contractual\nfeatures (for example, a promise to purchase) in a manner that the lessee still pays more or\nless the same amount, in total, as it would otherwise pay by exercising the option;",
+    "type": "rule",
+    "keywords": [
+      "extension option",
+      "termination option",
+      "contractual features",
+      "promise to purchase"
+    ]
+  },
+  {
+    "text": "b.\nthe binding period of an Ijarah is very short – as the exercising of such option would\ngenerally be economically more feasible;",
+    "type": "rule",
+    "keywords": [
+      "binding period",
+      "Ijarah",
+      "economically feasible"
+    ]
+  },
+  {
+    "text": "15\nc.\nthe lessee’s past practice regarding the period over which it has typically used particular\ntypes of assets (whether under Ijarah or owned), and its economic reasons for doing so,\ndetermine the exercising of the option to be economically more feasible and in line with the\nlessee’s past trends.",
+    "type": "rule",
+    "keywords": [
+      "past practice",
+      "types of assets",
+      "Ijarah",
+      "economically feasible"
+    ]
+  },
+  {
+    "text": "16.\nThere is a rebuttable presumption that expressed intention of the lessee to exercise the extension\noption(s) provides reasonable certainty with regard to extension of Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "extension option",
+      "Ijarah term",
+      "reasonable certainty"
+    ]
+  },
+  {
+    "text": "Subsequent re-assessment of Ijarah term",
+    "type": "misc",
+    "keywords": [
+      "Ijarah term",
+      "re-assessment"
+    ]
+  },
+  {
+    "text": "17.\nA lessee shall reassess whether it is reasonably certain to exercise an extension option, or not to\nexercise a termination option, upon the occurrence of either a significant event or a significant\nchange in circumstances that:\na.\nis within the control of the lessee; and\nb.\naffects whether the lessee is reasonably certain to exercise an option not previously\nincluded in its determination of the Ijarah term, or not to exercise an option previously\nincluded in its determination of the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "extension option",
+      "termination option",
+      "significant event",
+      "change in circumstances"
+    ]
+  },
+  {
+    "text": "18.\nAn institution shall revise the Ijarah term if there is a change in either the contractually binding\nperiod or reasonably certain optional periods of an Ijarah. For example, the Ijarah term shall be\nrevised if:\na.\nthe lessee exercises an option not previously included in the institution’s determination of\nthe Ijarah term;\nb.\nthe lessee does not exercise an option previously included in the institution’s determination\nof the Ijarah term;\nc.\nan event occurs that contractually obliges the lessee to exercise an option not previously\nincluded in the institution’s determination of the Ijarah term; or\nd.\nan event occurs that contractually prohibits the lessee from exercising an option previously\nincluded in the institution’s determination of the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah term revision",
+      "contractually binding period",
+      "optional periods",
+      "exercise option"
+    ]
+  },
+  {
+    "text": "Accounting and financial reporting by the lessee",
+    "type": "misc",
+    "keywords": [
+      "Accounting",
+      "financial reporting",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Initial recognition",
+    "type": "misc",
+    "keywords": [
+      "Initial recognition"
+    ]
+  },
+  {
+    "text": "Advance rentals paid",
+    "type": "misc",
+    "keywords": [
+      "Advance rentals paid"
+    ]
+  },
+  {
+    "text": "19.\nAny rentals paid in advance by the lessee prior to the commencement date shall be accounted for\nand presented as ‘advance Ijarah rentals paid’.",
+    "type": "rule",
+    "keywords": [
+      "advance rentals",
+      "commencement date",
+      "advance Ijarah rentals paid"
+    ]
+  },
+  {
+    "text": "20.\nOnce the Ijarah term is commenced, and the gross Ijarah liability and net Ijarah liability are\ndetermined, such advance rentals shall be netted-off with the gross Ijarah liability.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah term",
+      "gross Ijarah liability",
+      "net Ijarah liability",
+      "advance rentals",
+      "netted-off"
+    ]
+  },
+  {
+    "text": "Initial recognition",
+    "type": "misc",
+    "keywords": [
+      "Initial recognition"
+    ]
+  },
+  {
+    "text": "21.\nAt the commencement date, a lessee shall recognize:\na.\na right-of-use (usufruct) asset; and",
+    "type": "rule",
+    "keywords": [
+      "commencement date",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "16\nb.\na net Ijarah liability, duly comprising of the following elements:\ngross Ijarah liability;\ndeferred Ijarah cost (shown as a contra-liability).",
+    "type": "rule",
+    "keywords": [
+      "Ijarah liability",
+      "gross Ijarah liability",
+      "deferred Ijarah cost",
+      "contra-liability"
+    ]
+  },
+  {
+    "text": "Initial recognition of right-of-use asset\n22.\nAt the commencement date, a lessee shall measure the right-of-use asset at cost.",
+    "type": "rule",
+    "keywords": [
+      "right-of-use asset",
+      "measurement",
+      "cost",
+      "commencement date",
+      "lessee"
+    ]
+  },
+  {
+    "text": "23.\nThe cost of the right-of-use asset shall comprise:\na.\nthe “prime cost” of the right-of-use asset (determined in line with the paragraphs 31 or 32);",
+    "type": "rule",
+    "keywords": [
+      "right-of-use asset",
+      "cost",
+      "prime cost"
+    ]
+  },
+  {
+    "text": "b.\nany initial direct costs incurred by the lessee; and",
+    "type": "rule",
+    "keywords": [
+      "initial direct costs",
+      "lessee"
+    ]
+  },
+  {
+    "text": "c.\ndismantling or decommissioning costs2.",
+    "type": "rule",
+    "keywords": [
+      "dismantling costs",
+      "decommissioning costs"
+    ]
+  },
+  {
+    "text": "Initial recognition of Ijarah liability\n24.\nThe gross Ijarah liability shall be initially recognized as gross amount of total Ijarah rentals payable\nfor the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah liability",
+      "gross Ijarah liability",
+      "Ijarah rentals",
+      "Ijarah term",
+      "recognition"
+    ]
+  },
+  {
+    "text": "25.\nAt the commencement date, the total Ijarah rentals included in the measurement of the Ijarah\nliability comprise the following payments for the right to use the underlying asset during the Ijarah\nterm:\na.\nfixed Ijarah rentals less any incentives receivable;",
+    "type": "rule",
+    "keywords": [
+      "Ijarah rentals",
+      "Ijarah liability",
+      "measurement",
+      "fixed Ijarah rentals",
+      "incentives receivable",
+      "commencement date",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "b.\nvariable Ijarah rentals (see paragraphs 4(ee) and 26) including the supplementary rentals\n(duly measured at best estimates applying the index rates and other assumptions as of the\ncommencement date; and",
+    "type": "rule",
+    "keywords": [
+      "variable Ijarah rentals",
+      "supplementary rentals",
+      "index rates",
+      "commencement date"
+    ]
+  },
+  {
+    "text": "c.\npayments of additional rentals, if any, for terminating the Ijarah, if the Ijarah term reflects\nthe lessee exercising an option to terminate the Ijarah, subject to Shari'ah requirements.",
+    "type": "rule",
+    "keywords": [
+      "additional rentals",
+      "terminating Ijarah",
+      "Ijarah term",
+      "lessee",
+      "Shari'ah requirements"
+    ]
+  },
+  {
+    "text": "26.\nVariable Ijarah rentals are the Ijarah rentals that depend on an index or a rate.",
+    "type": "definition",
+    "keywords": [
+      "Variable Ijarah rentals",
+      "Ijarah rentals",
+      "index",
+      "rate"
+    ]
+  },
+  {
+    "text": "These include, for\nexample, payments linked to a consumer price index, payments linked to a financial market or\nregulatory benchmark rate or payments that vary to reflect changes in market rental rates.",
+    "type": "misc",
+    "keywords": [
+      "consumer price index",
+      "financial market rate",
+      "regulatory benchmark rate",
+      "market rental rates"
+    ]
+  },
+  {
+    "text": "These\nalso include supplementary rentals which are contingent on certain items e.g. rentals additionally\ncharged after providing certain additional services or after incurring major repair and maintenance.",
+    "type": "misc",
+    "keywords": [
+      "supplementary rentals",
+      "additional services",
+      "major repair and maintenance"
+    ]
+  },
+  {
+    "text": "Special considerations for Ijarah MBT through gradual transfer\n27.\nIn case of Ijarah MBT through gradual transfer, or any other form of Ijarah MBT, in which\nproportionate ownership and right-of-use co-exist on the same asset, the lessee shall account for\nthe combined asset under Ijarah MBT through gradual transfer, comprising of the proportionate:\na.\nright-of-use asset; and",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "proportionate ownership",
+      "right-of-use",
+      "lessee",
+      "combined asset",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "17\nb.\nownership of the tangible asset.",
+    "type": "rule",
+    "keywords": [
+      "ownership",
+      "tangible asset"
+    ]
+  },
+  {
+    "text": "28.\nA combined asset under Ijarah MBT through gradual transfer shall be accounted for in a manner\nsimilar to a right-of-use asset in line with the requirements of this standard.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "combined asset",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Deferred Ijarah cost\n29.\nDeferred Ijarah cost, is the difference between the gross Ijarah liability and the prime cost of right-\nof-use asset.",
+    "type": "definition",
+    "keywords": [
+      "deferred Ijarah cost",
+      "gross Ijarah liability",
+      "prime cost",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "It shall be initially deferred through a deferred Ijarah cost account.",
+    "type": "treatment",
+    "keywords": [
+      "deferred Ijarah cost",
+      "deferred",
+      "Ijarah cost account"
+    ]
+  },
+  {
+    "text": "30.\nDeferred Ijarah cost account shall be presented as a contra-liability (of respective liability).",
+    "type": "treatment",
+    "keywords": [
+      "deferred Ijarah cost account",
+      "contra-liability",
+      "liability"
+    ]
+  },
+  {
+    "text": "Prime cost of the right-of-use asset\nUnderlying asset cost method\n31.\nAt the commencement date, the prime cost of the right-of-use asset (except for an operating Ijarah)\nshall comprise of:",
+    "type": "rule",
+    "keywords": [
+      "prime cost",
+      "right-of-use asset",
+      "operating Ijarah",
+      "commencement date"
+    ]
+  },
+  {
+    "text": "a.\neither of:\npreferably, the cost of the underlying asset – if acquired specifically by the lessor for\nthe purpose of the intended Ijarah transaction; or\nalternatively, the fair value of the underlying asset as of the commencement date –\nif not acquired specifically by the lessor for the purpose of the intended Ijarah\ntransaction or if the cost is not known to the lessee;",
+    "type": "rule",
+    "keywords": [
+      "cost of underlying asset",
+      "fair value",
+      "lessor",
+      "Ijarah transaction",
+      "lessee",
+      "commencement date"
+    ]
+  },
+  {
+    "text": "b.\nless any expected terminal value of the underlying asset (at the end of the Ijarah term),\nbeing either of:\nthe promised value (being nil value, in case of expected gift) at which the transfer\nmay take place after the end of the Ijarah term; or\nexpected fair value of the underlying asset at the end of the Ijarah term, in case of\nabsence of a promised value.",
+    "type": "rule",
+    "keywords": [
+      "terminal value",
+      "underlying asset",
+      "Ijarah term",
+      "promised value",
+      "fair value",
+      "gift",
+      "transfer"
+    ]
+  },
+  {
+    "text": "Estimation based on liability method\n32.\nIf, the prime cost of the right-of-use asset may not be determined under the underlying asset cost\nmethod defined in paragraph 31 due to lack of sufficient information (particularly, in case of an\noperating Ijarah) the same may be determined through estimation based on the fair value of the\ntotal consideration paid or payable (i.e. total Ijarah rentals) against the right-of-use asset, under a\nsimilar transaction.",
+    "type": "rule",
+    "keywords": [
+      "prime cost",
+      "right-of-use asset",
+      "underlying asset cost method",
+      "operating Ijarah",
+      "fair value",
+      "Ijarah rentals",
+      "similar transaction"
+    ]
+  },
+  {
+    "text": "Subsequent measurement\nSubsequent measurement of the right-of-use asset\n33.\nAfter the commencement date, a lessee shall measure the right-of-use asset at:\na.\ncost;",
+    "type": "rule",
+    "keywords": [
+      "right-of-use asset",
+      "measurement",
+      "commencement date",
+      "cost"
+    ]
+  },
+  {
+    "text": "b.\nless – any accumulated amortization;",
+    "type": "rule",
+    "keywords": [
+      "accumulated amortization"
+    ]
+  },
+  {
+    "text": "c.\nless – any accumulated impairment losses;",
+    "type": "rule",
+    "keywords": [
+      "accumulated impairment losses"
+    ]
+  },
+  {
+    "text": "d.\nadd / less – adjustment for any effect of Ijarah modification or reassessment specified in\nparagraphs 44-46.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah modification",
+      "reassessment"
+    ]
+  },
+  {
+    "text": "Amortization of right-of-use asset\n34.\nA lessee shall amortize the right-of-use asset from the commencement date to the end of the useful\neconomic life of the right-of-use asset which coincides with the end of the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "right-of-use asset",
+      "amortization",
+      "commencement date",
+      "useful economic life",
+      "Ijarah term",
+      "lessee"
+    ]
+  },
+  {
+    "text": "35.\nAmortizable amount of a right-of-use asset shall be amortized according to a systematic basis that is\nreflective of the pattern of utilization of benefits from the right-of-use asset.",
+    "type": "rule",
+    "keywords": [
+      "amortizable amount",
+      "right-of-use asset",
+      "systematic basis",
+      "utilization of benefits"
+    ]
+  },
+  {
+    "text": "36.\nAmortizable amount shall generally represent the cost of a right-of-use asset less residual value, if\nany.",
+    "type": "rule",
+    "keywords": [
+      "amortizable amount",
+      "right-of-use asset",
+      "cost",
+      "residual value"
+    ]
+  },
+  {
+    "text": "37.\nResidual value of right-of-use asset shall be equal to:\na.\nnil value – in case of:\nan operating Ijarah; or\nan Ijarah MBT through sale at fair value after the end of the Ijarah term; or\nan Ijarah MBT that does not meet the condition specified in paragraph 37(c); or",
+    "type": "rule",
+    "keywords": [
+      "residual value",
+      "right-of-use asset",
+      "operating Ijarah",
+      "Ijarah MBT",
+      "fair value",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "b.\nthe estimated “residual value of the underlying asset” at the end of the Ijarah term – in case\nof an Ijarah MBT through gradual transfer; or",
+    "type": "rule",
+    "keywords": [
+      "residual value",
+      "underlying asset",
+      "Ijarah term",
+      "Ijarah MBT",
+      "gradual transfer"
+    ]
+  },
+  {
+    "text": "c.\nthe estimated “residual value of the underlying asset” at the end of the Ijarah term less\npromised purchase price (if any) – in case of Ijarah MBT through sale or gift after the end of\nthe Ijarah term, if it is highly likely that the option of transfer of ownership of the underlying\nasset to the lessee shall be exercised through purchase or gift.",
+    "type": "rule",
+    "keywords": [
+      "residual value",
+      "underlying asset",
+      "Ijarah term",
+      "Ijarah MBT",
+      "purchase price",
+      "transfer of ownership",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Impairment of right-of-use asset\n38.\nA lessee shall apply requirements of FAS 30 “Impairment, Credit Losses and Onerous Commitments”\nto determine whether the right-of-use asset is impaired and to account for any impairment loss\nidentified.",
+    "type": "rule",
+    "keywords": [
+      "right-of-use asset",
+      "FAS 30",
+      "Impairment",
+      "Credit Losses and Onerous Commitments",
+      "impairment loss",
+      "lessee"
+    ]
+  },
+  {
+    "text": "The impairment testing shall take into consideration the estimated residual value of the\nasset in line with the paragraph 37(c).",
+    "type": "rule",
+    "keywords": [
+      "impairment testing",
+      "residual value"
+    ]
+  },
+  {
+    "text": "39.\nA lessee shall also assess as to whether any commitment(s) including promise(s) to purchase the\nunderlying asset after the end of the Ijarah term or through gradual transfer is onerous in nature and\nif so, shall account for the same in line with the requirements of FAS 30 “Impairment, Credit Losses\nand Onerous Commitments”.",
+    "type": "rule",
+    "keywords": [
+      "commitment",
+      "purchase",
+      "underlying asset",
+      "Ijarah term",
+      "gradual transfer",
+      "onerous",
+      "FAS 30",
+      "Impairment, Credit Losses and Onerous Commitments",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Subsequent measurement of the Ijarah liability\n40.\nAfter the commencement date, a lessee shall measure the net Ijarah liability by:\na.\nreducing the carrying amount of the gross Ijarah liability to reflect the Ijarah rentals made;",
+    "type": "rule",
+    "keywords": [
+      "Ijarah liability",
+      "measurement",
+      "commencement date",
+      "gross Ijarah liability",
+      "Ijarah rentals",
+      "lessee"
+    ]
+  },
+  {
+    "text": "b. increasing the net carrying amount to reflect return on the Ijarah liability – by way of amortization of deferred Ijarah cost; and",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah liability",
+      "amortization",
+      "deferred Ijarah cost"
+    ]
+  },
+  {
+    "text": "c. re-measuring the carrying amount to reflect any reassessment, changes or Ijarah contract modifications or to reflect revised Ijarah rentals.",
+    "type": "treatment",
+    "keywords": [
+      "carrying amount",
+      "Ijarah contract modifications",
+      "Ijarah rentals",
+      "reassessment"
+    ]
+  },
+  {
+    "text": "41. The effect of re-measuring of the carrying amount of Ijarah liability (in line with paragraph 40(c)) shall be recognized as a change in the deferred Ijarah cost unless a specified requirement of paragraphs 44, 45 or 46 applies.",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah liability",
+      "deferred Ijarah cost",
+      "re-measuring",
+      "paragraph 40(c)"
+    ]
+  },
+  {
+    "text": "42. Deferred Ijarah cost shall be amortized to income over the Ijarah term on a time proportionate basis.",
+    "type": "treatment",
+    "keywords": [
+      "Deferred Ijarah cost",
+      "amortization",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "It is a rebuttable presumption that for most Ijarah transactions, the appropriate method to apply the time proportion basis shall be the effective rate of return method.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah transactions",
+      "time proportion basis",
+      "effective rate of return method"
+    ]
+  },
+  {
+    "text": "43. After the commencement date, a lessee shall recognize in income statement, unless the costs are included in the carrying amount of another asset (e.g. inventory, property, plant and equipment, Istisna’a assets etc.), both: a. amortization of deferred Ijarah cost; and",
+    "type": "treatment",
+    "keywords": [
+      "commencement date",
+      "lessee",
+      "income statement",
+      "amortization",
+      "deferred Ijarah cost"
+    ]
+  },
+  {
+    "text": "b. variable Ijarah rentals (not already included in the measurement of the Ijarah liability) – as and when remeasured i.e. when the triggering event or condition occurs.",
+    "type": "treatment",
+    "keywords": [
+      "variable Ijarah rentals",
+      "Ijarah liability",
+      "remeasured",
+      "triggering event"
+    ]
+  },
+  {
+    "text": "Ijarah contract modifications",
+    "type": "misc",
+    "keywords": [
+      "Ijarah contract modifications"
+    ]
+  },
+  {
+    "text": "Changes in the Ijarah term or future Ijarah rentals",
+    "type": "misc",
+    "keywords": [
+      "Ijarah term",
+      "Ijarah rentals"
+    ]
+  },
+  {
+    "text": "44. After the commencement date, a lessee shall account for changes in the Ijarah term or future Ijarah rentals without a change in the right-of-use asset (except for change in its useful economic life), as follows:",
+    "type": "treatment",
+    "keywords": [
+      "commencement date",
+      "lessee",
+      "Ijarah term",
+      "Ijarah rentals",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "a. change in the Ijarah term – re-calculation and adjustment of the right-of-use asset, the Ijarah liability and the deferred Ijarah cost; or",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah term",
+      "right-of-use asset",
+      "Ijarah liability",
+      "deferred Ijarah cost"
+    ]
+  },
+  {
+    "text": "b. change in future Ijarah rentals only (e.g. resulting from a change in an index or a benchmark rate used to determine those rentals) – re-calculation of the Ijarah liability and the deferred Ijarah cost only, without impacting the right-of-use asset.",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah rentals",
+      "Ijarah liability",
+      "deferred Ijarah cost",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Change in right-of use asset: new Ijarah component",
+    "type": "misc",
+    "keywords": [
+      "right-of-use asset",
+      "Ijarah component"
+    ]
+  },
+  {
+    "text": "45. An Ijarah modification shall be considered as a new Ijarah component to be accounted for as a separate Ijarah for the lessee, if both of the following conditions are met:",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah modification",
+      "Ijarah component",
+      "lessee"
+    ]
+  },
+  {
+    "text": "a. the modification additionally transfers the right to use of an identifiable underlying asset(s); and",
+    "type": "rule",
+    "keywords": [
+      "modification",
+      "right to use",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "b. the Ijarah rentals are increased corresponding to the additional right-of-use asset.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah rentals",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "Change in right-of use asset: de-recognition of earlier Ijarah and recognition of a new Ijarah",
+    "type": "misc",
+    "keywords": [
+      "right-of-use asset",
+      "de-recognition",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "46. For an Ijarah modification that does not meet the criteria provided in paragraphs 44 and 45, the lessee shall consider the Ijarah as a modified Ijarah as of the effective date and shall account for the",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah modification",
+      "lessee",
+      "modified Ijarah",
+      "effective date"
+    ]
+  },
+  {
+    "text": "20 same as a new Ijarah transaction.",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah transaction"
+    ]
+  },
+  {
+    "text": "Accordingly, the lessee shall recalculate the Ijarah liability, deferred Ijarah cost and the right-of-use asset respectively, as if it was a new Ijarah, duly de- recognizing the earlier Ijarah transaction and balances.",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah liability",
+      "deferred Ijarah cost",
+      "right-of-use asset",
+      "Ijarah transaction"
+    ]
+  },
+  {
+    "text": "Expenses related to underlying asset",
+    "type": "misc",
+    "keywords": [
+      "Expenses",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "47. Operational expenses related to underlying asset, including any expenses contractually agreed to be borne by the lessee, in line with the Shari’ah principles, shall be recognized by the lessee on an accrual basis in the period in which these are incurred.",
+    "type": "treatment",
+    "keywords": [
+      "Operational expenses",
+      "underlying asset",
+      "lessee",
+      "Shari'ah principles",
+      "accrual basis"
+    ]
+  },
+  {
+    "text": "48. Major repair and maintenance, Takaful and other expenses incidental to ownership of underlying assets, if incurred by the lessee as an agent, shall be recorded as receivable from lessor.",
+    "type": "treatment",
+    "keywords": [
+      "repair",
+      "maintenance",
+      "Takaful",
+      "lessee",
+      "agent",
+      "lessor"
+    ]
+  },
+  {
+    "text": "Recognition exemptions and simplified accounting for the lessee",
+    "type": "misc",
+    "keywords": [
+      "Recognition exemptions",
+      "simplified accounting",
+      "lessee"
+    ]
+  },
+  {
+    "text": "49. A lessee may elect not to apply the requirements of Ijarah recognition and measurement (in line with paragraphs 20 to 48), to: a. short-term Ijarah (see paragraphs 51 and 52); and",
+    "type": "rule",
+    "keywords": [
+      "lessee",
+      "Ijarah recognition",
+      "measurement",
+      "short-term Ijarah"
+    ]
+  },
+  {
+    "text": "b. Ijarah for which the underlying asset is of low value (see paragraphs 53 and 54).",
+    "type": "rule",
+    "keywords": [
+      "Ijarah",
+      "underlying asset",
+      "low value"
+    ]
+  },
+  {
+    "text": "Accounting for the exempt Ijarah",
+    "type": "misc",
+    "keywords": [
+      "exempt Ijarah",
+      "accounting"
+    ]
+  },
+  {
+    "text": "50. In case of exempt Ijarah (as determined in line with paragraph 49), the lessee shall recognize the Ijarah rentals as an expense on either: a. a straight-line basis over the Ijarah term; or",
+    "type": "treatment",
+    "keywords": [
+      "exempt Ijarah",
+      "lessee",
+      "Ijarah rentals",
+      "expense",
+      "straight-line basis",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "b. a systematic basis, if considered better representative of the pattern of the lessee’s use benefit of the underlying asset.",
+    "type": "treatment",
+    "keywords": [
+      "systematic basis",
+      "lessee",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Short-term Ijarah",
+    "type": "misc",
+    "keywords": [
+      "Short-term Ijarah"
+    ]
+  },
+  {
+    "text": "51. In case of short-term Ijarah considered exempt under paragraph 49, the lessee shall re-consider the Ijarah as a new Ijarah in case of an Ijarah modification or a change in the Ijarah term.",
+    "type": "treatment",
+    "keywords": [
+      "short-term Ijarah",
+      "lessee",
+      "Ijarah modification",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "52. The exemption under paragraph 49, shall be applied to a whole class of underlying assets, that have similar characteristics and operational utility.",
+    "type": "rule",
+    "keywords": [
+      "exemption",
+      "underlying assets",
+      "characteristics",
+      "operational utility"
+    ]
+  },
+  {
+    "text": "Low value Ijarah",
+    "type": "misc",
+    "keywords": [
+      "Low value Ijarah"
+    ]
+  },
+  {
+    "text": "53. The choice for Ijarah transactions for which the underlying asset is of low value can be made on an individual asset or Ijarah transaction basis but not on a group / combination basis.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah transactions",
+      "underlying asset",
+      "low value",
+      "individual asset",
+      "Ijarah transaction"
+    ]
+  },
+  {
+    "text": "The value of an underlying asset shall be considered as of when it is / was new, irrespective of when the Ijarah transaction is executed.",
+    "type": "rule",
+    "keywords": [
+      "underlying asset",
+      "Ijarah transaction"
+    ]
+  },
+  {
+    "text": "54. The choice provided for in paragraph 53 shall be available if, and only if, the asset is usable for lessee on its own basis, without needing other resources which are not already available with the lessee or being dependent or interrelated with, other assets.",
+    "type": "rule",
+    "keywords": [
+      "asset",
+      "lessee",
+      "resources"
+    ]
+  },
+  {
+    "text": "21 Presentation and disclosure",
+    "type": "misc",
+    "keywords": [
+      "Presentation",
+      "disclosure"
+    ]
+  },
+  {
+    "text": "Presentation",
+    "type": "misc",
+    "keywords": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "55. Right-of-use assets and net Ijarah liability shall be presented in the lessee’s statement of financial position as ‘right-of-use assets’ (between ‘property, plant and equipment’ and ‘intangible assets’) and as a liability, respectively.",
+    "type": "treatment",
+    "keywords": [
+      "right-of-use assets",
+      "Ijarah liability",
+      "lessee",
+      "financial position",
+      "liability"
+    ]
+  },
+  {
+    "text": "56. Advance Ijarah rentals paid in respect of Ijarah transactions yet to commence shall be presented as receivable.",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah rentals",
+      "Ijarah transactions",
+      "receivable"
+    ]
+  },
+  {
+    "text": "57. Net Ijarah cost shall be presented in the lessee’s income statement as a single ‘operating expense’ commensurate with the nature of use of the right-of-use asset comprising of, and disclosing separately, the: a. amortization of right-of-use asset;",
+    "type": "treatment",
+    "keywords": [
+      "Ijarah cost",
+      "lessee",
+      "income statement",
+      "operating expense",
+      "amortization",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "b. amortization of deferred Ijarah cost; c. variable Ijarah rentals; and",
+    "type": "treatment",
+    "keywords": [
+      "amortization",
+      "deferred Ijarah cost",
+      "variable Ijarah rentals"
+    ]
+  },
+  {
+    "text": "d. gain or loss on Ijarah modifications and other adjustments.",
+    "type": "treatment",
+    "keywords": [
+      "gain or loss",
+      "Ijarah modifications",
+      "adjustments"
+    ]
+  },
+  {
+    "text": "Disclosures",
+    "type": "misc",
+    "keywords": [
+      "Disclosures"
+    ]
+  },
+  {
+    "text": "[Explanation: if the Ijarah cost is attributable to construction / development of an asset then such disclosures shall be provided while disclosing such attributions]",
+    "type": "misc",
+    "keywords": [
+      "Ijarah cost",
+      "construction",
+      "development",
+      "asset",
+      "disclosures"
+    ]
+  },
+  {
+    "text": "58. In addition to the disclosure requirements stated in FAS 1: “General Presentation and Disclosure in the Financial Statements of Islamic Banks and Financial Institutions” following are the minimum disclosure requirements in the financial statements of the lessee: a. the accounting policies adopted for the accounting treatments of Ijarah and Ijarah MBT transactions as a lessee duly explaining the types of Ijarah transactions the lessee has entered into;",
+    "type": "disclosure",
+    "keywords": [
+      "disclosure requirements",
+      "FAS 1",
+      "accounting policies",
+      "Ijarah",
+      "Ijarah MBT transactions",
+      "lessee"
+    ]
+  },
+  {
+    "text": "b. the amount of right-of-use assets by each major class of assets net of accumulated amortization and accumulated impairment, if any, as well as, disclosing the other balances included or deducted therefrom in line with this standard;",
+    "type": "disclosure",
+    "keywords": [
+      "right-of-use assets",
+      "major class of assets",
+      "accumulated amortization",
+      "accumulated impairment"
+    ]
+  },
+  {
+    "text": "c. the breakup of the combined assets acquired under Ijarah MBT through gradual transfer, as regards to the proportionate carrying value of: right-of-use asset; and",
+    "type": "disclosure",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "tangible asset;",
+    "type": "disclosure",
+    "keywords": [
+      "tangible asset"
+    ]
+  },
+  {
+    "text": "d. a summary of, the amount of the gross and net Ijarah liability – distributed as per amount due: within next 12 months; in more than 12 months, but within next 5 years; and",
+    "type": "disclosure",
+    "keywords": [
+      "Ijarah liability",
+      "amount due"
+    ]
+  },
+  {
+    "text": "f. future cash outflows as required to be disclosed under paragraph 58(e), shall be preferably disclosed, if material, with a distributions of cash outflows: within next 12 months; in more than 12 months, but within next 5 years; and in more than 5 years;",
+    "type": "disclosure",
+    "keywords": [
+      "future cash outflows",
+      "disclosure",
+      "cash outflows",
+      "12 months",
+      "5 years"
+    ]
+  },
+  {
+    "text": "g. disclosure of nature of assets sold during the period under sale and Ijarah-back transactions and necessary information including: sale price; carrying value prior to sale; gain / loss on execution of sale and Ijarah-back transaction; principal terms and conditions of the transaction(s), if considered material;",
+    "type": "disclosure",
+    "keywords": [
+      "disclosure",
+      "assets sold",
+      "sale",
+      "Ijarah-back transactions",
+      "sale price",
+      "carrying value",
+      "gain/loss",
+      "principal terms"
+    ]
+  },
+  {
+    "text": "h. unamortized deferred Ijarah costs against Ijarah liabilities, providing a movement of the same during the period duly disclosed as a deduction from the outstanding amount of Ijarah liabilities;",
+    "type": "disclosure",
+    "keywords": [
+      "unamortized deferred Ijarah costs",
+      "Ijarah liabilities",
+      "disclosure",
+      "deduction"
+    ]
+  },
+  {
+    "text": "i. outstanding amounts of Hamish Jiddiyyah at the end of the financial period;",
+    "type": "disclosure",
+    "keywords": [
+      "Hamish Jiddiyyah",
+      "financial period",
+      "disclosure"
+    ]
+  },
+  {
+    "text": "j. the excess of expected cumulative amount of residual value of right-of-use assets in case of Ijarah MBT in line with paragraph 37(c), which may be subject to contingent impairment in case of either: termination of Ijarah MBT; or non-execution of the sale or gift transaction after the end of the Ijarah term;",
+    "type": "disclosure",
+    "keywords": [
+      "residual value",
+      "right-of-use assets",
+      "Ijarah MBT",
+      "impairment",
+      "termination",
+      "sale transaction",
+      "gift transaction"
+    ]
+  },
+  {
+    "text": "23 k. the amount of Ijarah rentals waived by the lessor, if any, according to their respective nature, during the period; and",
+    "type": "disclosure",
+    "keywords": [
+      "Ijarah rentals waived",
+      "lessor",
+      "disclosure",
+      "period"
+    ]
+  },
+  {
+    "text": "l. the amount of charity payments made and payable, if any, against defaults in payments and other breaches if any.",
+    "type": "disclosure",
+    "keywords": [
+      "charity payments",
+      "defaults in payments",
+      "breaches",
+      "disclosure"
+    ]
+  },
+  {
+    "text": "Accounting and financial reporting by the lessor",
+    "type": "misc",
+    "keywords": [
+      "lessor",
+      "accounting",
+      "financial reporting"
+    ]
+  },
+  {
+    "text": "Initial Recognition",
+    "type": "misc",
+    "keywords": [
+      "initial recognition"
+    ]
+  },
+  {
+    "text": "Advance to vendor",
+    "type": "misc",
+    "keywords": [
+      "advance to vendor"
+    ]
+  },
+  {
+    "text": "59. Any advance paid by lessor for acquisition of the underlying asset, before the control of the underlying asset is transferred to the lessor, shall be recorded and reported as an advance payment to vendor.",
+    "type": "treatment",
+    "keywords": [
+      "advance payment",
+      "lessor",
+      "underlying asset",
+      "vendor"
+    ]
+  },
+  {
+    "text": "Advance rentals received",
+    "type": "misc",
+    "keywords": [
+      "advance rentals received"
+    ]
+  },
+  {
+    "text": "60. Any advance rentals received by lessor in respect of an Ijarah transaction (including prospective/ forward Ijarah), shall be recorded and reported as obligation against advance rentals.",
+    "type": "treatment",
+    "keywords": [
+      "advance rentals",
+      "Ijarah transaction",
+      "obligation",
+      "lessor"
+    ]
+  },
+  {
+    "text": "Timing of recognition of underlying asset",
+    "type": "misc",
+    "keywords": [
+      "timing",
+      "recognition",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "61. Underlying asset shall be recognized in the books of the lessor once it controls the underlying asset i.e. the time when it essentially acquires substantially all risks and rewards incidental to ownership of such underlying asset.",
+    "type": "rule",
+    "keywords": [
+      "underlying asset",
+      "lessor",
+      "risks",
+      "rewards",
+      "ownership"
+    ]
+  },
+  {
+    "text": "Recognition of underlying asset",
+    "type": "misc",
+    "keywords": [
+      "recognition",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "62. Underlying asset shall be initially recognized at cost. The cost of underlying asset shall comprise all costs of purchase and other costs incurred in bringing the underlying asset to its present location and condition. It includes all types of taxes (other than those subsequently recovered), transportation and handling costs including related Takaful cost and all other costs directly attributable to bring the underlying asset to its present location and condition, including those incurred by the customer in capacity of agent and any fee paid to the agent. Trade discounts, rebates and similar items should be deducted from the costs.",
+    "type": "treatment",
+    "keywords": [
+      "underlying asset",
+      "cost",
+      "taxes",
+      "transportation costs",
+      "Takaful cost",
+      "trade discounts",
+      "rebates"
+    ]
+  },
+  {
+    "text": "63. In cases where underlying asset is acquired on a piecemeal basis or in tranches, each tranche of asset received shall be recognized when the conditions defined in paragraph 61 are met with respect to such tranche.",
+    "type": "rule",
+    "keywords": [
+      "underlying asset",
+      "piecemeal basis",
+      "tranches",
+      "recognition"
+    ]
+  },
+  {
+    "text": "Initial direct costs",
+    "type": "misc",
+    "keywords": [
+      "initial direct costs"
+    ]
+  },
+  {
+    "text": "64. Transaction costs, not being eligible for inclusion in the cost of underlying asset, duly incurred by the lessor for arranging the Ijarah transaction shall be recognized and deferred as initial direct costs.",
+    "type": "treatment",
+    "keywords": [
+      "transaction costs",
+      "lessor",
+      "Ijarah transaction",
+      "initial direct costs"
+    ]
+  },
+  {
+    "text": "65. Initial direct costs shall be allocated to income statement through amortization over the periods in the Ijarah term in a pattern consistent with that used for allocating Ijarah revenues.",
+    "type": "treatment",
+    "keywords": [
+      "initial direct costs",
+      "income statement",
+      "amortization",
+      "Ijarah term",
+      "Ijarah revenues"
+    ]
+  },
+  {
+    "text": "Subsequent measurement",
+    "type": "misc",
+    "keywords": [
+      "subsequent measurement"
+    ]
+  },
+  {
+    "text": "66. Subsequent to initial recognition, the underlying assets shall be measured at cost less accumulated depreciation less accumulated impairment, if any.",
+    "type": "treatment",
+    "keywords": [
+      "underlying assets",
+      "cost",
+      "depreciation",
+      "impairment"
+    ]
+  },
+  {
+    "text": "24 Depreciation",
+    "type": "misc",
+    "keywords": [
+      "depreciation"
+    ]
+  },
+  {
+    "text": "67. Depreciable amount of an underlying asset shall be charged to income over its useful economic life on a pattern which is reflective of the expected pattern of economic benefits arising from the same. Normally the straight line method can be considered as most appropriate pattern of flow of economic benefits, unless another systematic method is determined to be more appropriately reflecting such pattern.",
+    "type": "rule",
+    "keywords": [
+      "depreciable amount",
+      "underlying asset",
+      "useful economic life",
+      "depreciation",
+      "straight line method"
+    ]
+  },
+  {
+    "text": "68. Depreciable amount shall represent the cost of the underlying asset less residual value.",
+    "type": "definition",
+    "keywords": [
+      "depreciable amount",
+      "cost",
+      "underlying asset",
+      "residual value"
+    ]
+  },
+  {
+    "text": "69. Residual value in respect of an underlying asset shall represent: a. the estimated fair value of the underlying asset at the end of the Ijarah term – in case of an operating Ijarah, or an Ijarah MBT through sale at fair value after the end of the Ijarah term; or",
+    "type": "definition",
+    "keywords": [
+      "residual value",
+      "underlying asset",
+      "fair value",
+      "Ijarah term",
+      "operating Ijarah",
+      "Ijarah MBT"
+    ]
+  },
+  {
+    "text": "b. nil value – in case of an Ijarah MBT through gift after the end of the Ijarah term; or",
+    "type": "definition",
+    "keywords": [
+      "nil value",
+      "Ijarah MBT",
+      "gift",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "c. the promised sale value – in case of an Ijarah MBT through sale at promised sale value after the end of the Ijarah term; or",
+    "type": "definition",
+    "keywords": [
+      "promised sale value",
+      "Ijarah MBT",
+      "sale",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "d. the lower of cost or estimated realizable value – in case of an Ijarah MBT through gradual transfer. [Explanation: estimated realizable value to be applicable only if the units’ sale is carried out at fair value, and there is an indication of decline in the realizable value at the time of respective proportionate unit transfers. Accordingly, there will generally be no depreciation of such assets].",
+    "type": "definition",
+    "keywords": [
+      "lower of cost or estimated realizable value",
+      "Ijarah MBT",
+      "gradual transfer",
+      "realizable value",
+      "depreciation"
+    ]
+  },
+  {
+    "text": "70. The useful economic life of the underlying asset shall generally represent: a. the Ijarah term – in case of all Ijarah transactions except for those on which paragraph 70(b) applies; or",
+    "type": "rule",
+    "keywords": [
+      "useful economic life",
+      "underlying asset",
+      "Ijarah term",
+      "Ijarah transactions"
+    ]
+  },
+  {
+    "text": "b. period equivalent to the useful economic life of similar assets (including lessor’s own similar assets) – in case of such operating Ijarah transactions whereby, after the end of the Ijarah term, the underlying asset is intended to be used, either for the own use of the lessor, or for use in respect of further (one or more) unrelated operating Ijarah transactions.",
+    "type": "rule",
+    "keywords": [
+      "useful economic life",
+      "lessor",
+      "operating Ijarah",
+      "Ijarah term",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Impairment",
+    "type": "misc",
+    "keywords": [
+      "impairment"
+    ]
+  },
+  {
+    "text": "71. An underlying asset shall be subject to the impairment requirements of FAS 30 “Impairment, Credit Losses and Onerous Commitments”.",
+    "type": "rule",
+    "keywords": [
+      "underlying asset",
+      "impairment",
+      "FAS 30",
+      "Impairment, Credit Losses and Onerous Commitments"
+    ]
+  },
+  {
+    "text": "72. In case of Ijarah MBT through gradual transfer, an underlying asset shall be subject to the provisions related to net realizable value (NRV) of FAS 30 “Impairment, Credit Losses and Onerous Commitments”.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "underlying asset",
+      "net realizable value",
+      "NRV",
+      "FAS 30",
+      "Impairment, Credit Losses and Onerous Commitments"
+    ]
+  },
+  {
+    "text": "Accounting for commitments",
+    "type": "misc",
+    "keywords": [
+      "accounting",
+      "commitments"
+    ]
+  },
+  {
+    "text": "73. Any promises / undertakings made by the lessor in relation to an Ijarah transaction, resulting in an onerous commitment shall be accounted for and reported in line with the requirements of FAS 30 “Impairment, Credit losses and Onerous Commitments”.",
+    "type": "rule",
+    "keywords": [
+      "promises",
+      "undertakings",
+      "lessor",
+      "Ijarah transaction",
+      "onerous commitment",
+      "FAS 30",
+      "Impairment, Credit losses and Onerous Commitments"
+    ]
+  },
+  {
+    "text": "Ijarah revenue and costs",
+    "type": "misc",
+    "keywords": [
+      "Ijarah revenue",
+      "Ijarah costs"
+    ]
+  },
+  {
+    "text": "Ijarah revenue",
+    "type": "misc",
+    "keywords": [
+      "Ijarah revenue"
+    ]
+  },
+  {
+    "text": "74.\nIjarah revenue shall be recognized in income statement of the lessor on an accrual basis, applying, either:\na. a straight-line basis – preferred method; or\nb. another systematic basis.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah revenue",
+      "recognition",
+      "income statement",
+      "accrual basis",
+      "straight-line basis",
+      "systematic basis"
+    ]
+  },
+  {
+    "text": "75.\nThe lessor shall apply another systematic basis if it can be established that such basis maybe representative of the pattern in which benefit from the use of the underlying asset is diminished.",
+    "type": "rule",
+    "keywords": [
+      "systematic basis",
+      "benefit",
+      "underlying asset",
+      "diminished"
+    ]
+  },
+  {
+    "text": "Applying the effective rate of return method",
+    "type": "misc",
+    "keywords": [
+      "effective rate of return method"
+    ]
+  },
+  {
+    "text": "76.\nIt is a rebuttable assumption that in various Ijarah MBT transactions, the effective rate of return method is better representative of the pattern in which the use of the underlying asset is diminished.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "effective rate of return method",
+      "underlying asset",
+      "diminished"
+    ]
+  },
+  {
+    "text": "77.\nUnder this method, the gross Ijarah revenue is allocated to income statement over the term of Ijarah in such a manner that a uniform rate of return is produced in form of net Ijarah revenue, over net investment in Ijarah assets whereby:\na. net Ijarah revenue is the amount of gross Ijarah revenue, net of Ijarah costs (depreciation and amortization); and\nb. net investment in Ijarah assets is the net carrying value of the underlying asset, including the unamortized initial direct cost.",
+    "type": "rule",
+    "keywords": [
+      "gross Ijarah revenue",
+      "income statement",
+      "uniform rate of return",
+      "net Ijarah revenue",
+      "net investment",
+      "Ijarah assets",
+      "depreciation",
+      "amortization",
+      "initial direct cost"
+    ]
+  },
+  {
+    "text": "78.\nWhile applying the effective rate of return method, any excess of Ijarah revenue recognized over the Ijarah rentals due shall be recognized as accrued Ijarah rentals.",
+    "type": "rule",
+    "keywords": [
+      "effective rate of return method",
+      "Ijarah revenue",
+      "Ijarah rentals",
+      "accrued Ijarah rentals"
+    ]
+  },
+  {
+    "text": "Applying the systematic method for Ijarah MBT through gradual transfer",
+    "type": "misc",
+    "keywords": [
+      "systematic method",
+      "Ijarah MBT",
+      "gradual transfer"
+    ]
+  },
+  {
+    "text": "79.\nIt is a rebuttable assumption that in case of Ijarah MBT through gradual transfer, the most suitable systematic method would be to recognize Ijarah revenue in the financial period in which it is due, on accrual basis, taking into consideration that the revenue shall progressively decrease as the lessee acquires a greater share of the underlying asset.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "systematic method",
+      "Ijarah revenue",
+      "accrual basis",
+      "lessee",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Ijarah costs",
+    "type": "misc",
+    "keywords": [
+      "Ijarah costs"
+    ]
+  },
+  {
+    "text": "80.\nIjarah costs, incurred in earning the Ijarah revenue shall be recognized as an expense in the income statement of a lessor. These include:\na. depreciation of the underlying asset;\nb. amortization of the initial direct cost; and\nc. other costs incidental to ownership of underlying asset e.g. major repair and maintenance (other than operational repair and maintenance), Takaful and taxes etc.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah costs",
+      "Ijarah revenue",
+      "income statement",
+      "lessor",
+      "depreciation",
+      "underlying asset",
+      "amortization",
+      "initial direct cost",
+      "Takaful",
+      "taxes"
+    ]
+  },
+  {
+    "text": "26\nPresentation and disclosures",
+    "type": "misc",
+    "keywords": [
+      "Presentation",
+      "disclosures"
+    ]
+  },
+  {
+    "text": "81.\nIjarah assets shall be presented in the lessor’s statement of financial position as ‘Ijarah assets’.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah assets",
+      "statement of financial position",
+      "lessor"
+    ]
+  },
+  {
+    "text": "82.\nNet Ijarah revenue shall be presented in the lessor’s income statement comprising of:\na. gross Ijarah revenue recognized during the period;\nb. less: depreciation of underlying asset;\nc. less: expenses related to Ijarah assets including Takaful, registration, legal and repair and maintenance.",
+    "type": "rule",
+    "keywords": [
+      "net Ijarah revenue",
+      "income statement",
+      "lessor",
+      "gross Ijarah revenue",
+      "depreciation",
+      "underlying asset",
+      "Takaful",
+      "repair and maintenance"
+    ]
+  },
+  {
+    "text": "83.\nAdvance Ijarah rentals received shall be recognized and presented as a liability in the lessor’s statement of financial position.",
+    "type": "rule",
+    "keywords": [
+      "Advance Ijarah rentals",
+      "liability",
+      "statement of financial position",
+      "lessor"
+    ]
+  },
+  {
+    "text": "84.\nInitial direct costs shall be shown as an addition to the carrying value of the Ijarah assets, reflecting total initial direct costs and unamortized initial direct costs.",
+    "type": "rule",
+    "keywords": [
+      "initial direct costs",
+      "carrying value",
+      "Ijarah assets",
+      "unamortized initial direct costs"
+    ]
+  },
+  {
+    "text": "Disclosures",
+    "type": "misc",
+    "keywords": [
+      "Disclosures"
+    ]
+  },
+  {
+    "text": "85.\nIn addition to the disclosure requirements stated in FAS 1: “General Presentation and Disclosure in the Financial Statements of Islamic Banks and Financial Institutions” following are the minimum disclosure requirements in the financial statements of the lessor:\na. the accounting policies adopted for the accounting treatments of Ijarah and Ijarah MBT transactions as a lessor duly explaining the types of Ijarah transactions the lessor has entered into;\nb. the amount of Ijarah assets by each major class of assets, as well as, by each classification of Ijarah transactions, net of (and disclosing separately) accumulated depreciation and accumulated impairment, if any, as well as, disclosing the other balances included or deducted therefrom in line with this standard;\nc. amortization of initial direct costs;\nd. future cash inflows related to Ijarah transactions. This includes cash inflows arising from: Ijarah rentals; extension options and termination options; committed / or expected exercise of options to sell, either the underlying asset after the end of Ijarah term (in case of Ijarah MBT) or the proportionate ownership units of the underlying units during the Ijarah term (in case of Ijarah MBT through gradual transfer); committed purchases of assets including those ordered, to be procured and given on Ijarah basis; Ijarah rentals related to Ijarah not yet commenced to which the lessee is committed;",
+    "type": "disclosure",
+    "keywords": [
+      "disclosure requirements",
+      "FAS 1",
+      "disclosure requirements",
+      "financial statements",
+      "lessor",
+      "accounting policies",
+      "Ijarah",
+      "Ijarah MBT",
+      "Ijarah assets",
+      "accumulated depreciation",
+      "accumulated impairment",
+      "amortization",
+      "initial direct costs",
+      "future cash inflows",
+      "Ijarah rentals",
+      "extension options",
+      "termination options",
+      "underlying asset",
+      "lessee"
+    ]
+  },
+  {
+    "text": "27\ne. future cash outflows as required to be disclosed under paragraph 85(d), shall be preferably disclosed, if material, with a distributions of cash outflows: within next 12 months; in more than 12 months, but within next 5 years; and in more than 5 years.\nf. outstanding amounts of Hamish Jiddiyyah at the end of the financial period;\ng. the amount of Ijarah rentals waived by the lessor, if any, according to their respective nature, during the period; and\nh. the amount of charity payments made and payable, if any, against defaults in payments and other breaches if any.",
+    "type": "disclosure",
+    "keywords": [
+      "future cash outflows",
+      "cash outflows",
+      "Hamish Jiddiyyah",
+      "Ijarah rentals waived",
+      "charity payments"
+    ]
+  },
+  {
+    "text": "Ijarah MBT: transfer of underlying asset’s ownership",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "transfer of ownership"
+    ]
+  },
+  {
+    "text": "Timing of recognition of the transfer of underlying asset",
+    "type": "misc",
+    "keywords": [
+      "transfer of underlying asset",
+      "recognition"
+    ]
+  },
+  {
+    "text": "86.\nIn case of an Ijarah MBT, the transfer of asset’s ownership may take place through transfer of control (entailing risks and rewards incidental to ownership of such asset) under a separate (i.e. separate from the Ijarah contract):\na. contract of sale – after the end of the Ijarah term (including, in certain circumstances, after early termination of the Ijarah term); or\nb. contract of gift – after the end of the Ijarah term; or\nc. contracts of sale of proportionate ownership (generally in form of ownership units) – during the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "transfer of ownership",
+      "transfer of control",
+      "contract of sale",
+      "contract of gift",
+      "proportionate ownership",
+      "ownership units"
+    ]
+  },
+  {
+    "text": "87.\nA contract(s), as referred to in paragraph 86 constitute an offer and acceptance (whereby, either party may offer and other accepts), and shall not be confused with the promise for execution of such transaction, at a future date (which is not binding on one of the parties, at least).",
+    "type": "rule",
+    "keywords": [
+      "contract",
+      "offer and acceptance",
+      "transaction"
+    ]
+  },
+  {
+    "text": "88.\nTransfer of underlying asset’s ownership (or proportionate ownership) shall be accounted for by both parties on transfer of control of the underlying asset to the lessee generally coinciding with the timing of consummation of the relevant contract (also see paragraph 89).",
+    "type": "rule",
+    "keywords": [
+      "transfer of ownership",
+      "proportionate ownership",
+      "transfer of control",
+      "underlying asset",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Ijarah MBT through gradual transfer – special considerations",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "special considerations"
+    ]
+  },
+  {
+    "text": "89.\nGradual transfer of underlying asset’s proportionate ownership shall be accounted for by both parties on transfer of corresponding control of the underlying asset to the lessee coinciding with the timing of consummation of the relevant contract, through:\na. offer and acceptance of the transfer of proportionate ownership; or\nb. payment against purchase of such units as a continuing arrangement (and acceptance of such payment) if so allowed by the contract and in line with Shari’ah principles, in absence of individual offer and acceptance against each such transfer.",
+    "type": "rule",
+    "keywords": [
+      "gradual transfer",
+      "proportionate ownership",
+      "transfer of control",
+      "underlying asset",
+      "lessee",
+      "offer and acceptance",
+      "Shari’ah principles"
+    ]
+  },
+  {
+    "text": "90. On acquisition, the underlying asset acquired, shall be recognized in the books of the purchaser\n(earlier, the lessee) as an item of property, plant and equipment or investment property or any other\ncategory of assets, as suitable according to the nature of the asset, at:",
+    "type": "rule",
+    "keywords": [
+      "acquisition",
+      "underlying asset",
+      "recognition",
+      "purchaser",
+      "property",
+      "plant",
+      "equipment",
+      "investment property"
+    ]
+  },
+  {
+    "text": "a. cost, being the consideration paid or payable for the acquisition of asset;",
+    "type": "rule",
+    "keywords": [
+      "cost",
+      "consideration",
+      "acquisition of asset"
+    ]
+  },
+  {
+    "text": "b. plus: the carrying value of the right-of-use asset, if any (residual value in line with paragraph\n37) duly reclassified from the right-of-use asset.",
+    "type": "rule",
+    "keywords": [
+      "carrying value",
+      "right-of-use asset",
+      "residual value",
+      "reclassification"
+    ]
+  },
+  {
+    "text": "91. The combined asset acquired completely as owned asset, on full transfer of ownership units, shall be\nreclassified as an item of property, plant and equipment or investment property or any other\ncategory of assets, as suitable according to the nature of the asset, at the carrying value (including\nasset cost, less accumulated amortization (now classified as depreciation), less accumulated\nimpairment, if any).",
+    "type": "rule",
+    "keywords": [
+      "combined asset",
+      "ownership transfer",
+      "reclassification",
+      "carrying value",
+      "amortization",
+      "depreciation",
+      "impairment"
+    ]
+  },
+  {
+    "text": "92. The underlying asset’s sale or gift after the end of the Ijarah term or in case of early termination /\nsettlement shall be recorded by the seller / transferor (being previously the lessor), the underlying\nasset shall be de-recognized and any gain or loss arising on the same being the difference between\nthe carrying value and the consideration received or receivable, shall be recognized in income\nstatement currently.",
+    "type": "rule",
+    "keywords": [
+      "underlying asset",
+      "sale",
+      "gift",
+      "Ijarah term",
+      "early termination",
+      "settlement",
+      "de-recognition",
+      "gain",
+      "loss",
+      "carrying value",
+      "consideration",
+      "income statement"
+    ]
+  },
+  {
+    "text": "93. The proportionate ownership of the underlying asset sold under each distinct transaction of\nownership transfer shall be accounted for in the books of the seller (earlier, the lessor) by\nrecognizing the consideration received or receivable as the income on unit sales, the corresponding\nproportionate cost at carrying value, being the cost of sold units while recognizing any gain or loss\non such unit sales in the income statement currently.",
+    "type": "rule",
+    "keywords": [
+      "proportionate ownership",
+      "underlying asset",
+      "ownership transfer",
+      "consideration",
+      "income",
+      "unit sales",
+      "carrying value",
+      "gain",
+      "loss",
+      "income statement"
+    ]
+  },
+  {
+    "text": "94. In case an Ijarah is prematurely terminated and the underlying asset is transferred by the lessor to\nthe lessee, both the transactions shall be accounted for separately in line with the Shari’ah\nrequirements and contractual terms. In such situation, prior to transfer of underlying asset, the\nIjarah contract shall be concluded and any gain or loss on the same shall be recognized in the income\nstatement at the time of termination of the Ijarah contract.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah",
+      "prematurely terminated",
+      "underlying asset",
+      "transferred",
+      "Shari’ah requirements",
+      "contractual terms",
+      "Ijarah contract",
+      "gain",
+      "loss",
+      "income statement",
+      "termination"
+    ]
+  },
+  {
+    "text": "95. Once the Ijarah contract is terminated, transfer of underlying asset, shall be accounted for in\naccordance with paragraphs 96 and 97.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah contract",
+      "terminated",
+      "transfer of underlying asset",
+      "accounting"
+    ]
+  },
+  {
+    "text": "96. In case of an Ijarah transaction being early terminated and purchase of underlying asset by the\npurchaser (previously lessee), the underlying asset acquired shall be recognized in the books of the",
+    "type": "rule",
+    "keywords": [
+      "Ijarah transaction",
+      "early terminated",
+      "purchase of underlying asset",
+      "purchaser",
+      "lessee",
+      "underlying asset",
+      "recognition"
+    ]
+  },
+  {
+    "text": "29\npurchaser (earlier, the lessee) as an item of property, plant and equipment or investment property\nor any other category of assets, as suitable according to the nature of the asset, at:",
+    "type": "rule",
+    "keywords": [
+      "purchaser",
+      "lessee",
+      "property",
+      "plant",
+      "equipment",
+      "investment property",
+      "assets"
+    ]
+  },
+  {
+    "text": "a. cost, being the consideration paid or payable for the acquisition of asset (but excluding any\nadditional payments made for early settlement / termination of Ijarah, not being a part of\npurchase consideration);",
+    "type": "rule",
+    "keywords": [
+      "cost",
+      "consideration",
+      "acquisition of asset",
+      "early settlement",
+      "termination of Ijarah",
+      "purchase consideration"
+    ]
+  },
+  {
+    "text": "b. plus: the carrying value of the right-of-use asset;",
+    "type": "rule",
+    "keywords": [
+      "carrying value",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "c. less: impairment identified as a result of early settlement / termination, if any.",
+    "type": "rule",
+    "keywords": [
+      "impairment",
+      "early settlement",
+      "termination"
+    ]
+  },
+  {
+    "text": "97. In case of an Ijarah transaction being early terminated and sale or gift of underlying asset by the\nseller / transferor (previously lessor), the underlying asset acquired shall be de-recognized from the\nbooks of the seller / transferor (earlier, the lessor) and following shall be recognized, separately, in\nthe income statement currently:",
+    "type": "rule",
+    "keywords": [
+      "Ijarah transaction",
+      "early terminated",
+      "sale",
+      "gift",
+      "underlying asset",
+      "de-recognized",
+      "income statement"
+    ]
+  },
+  {
+    "text": "a. gain or loss on early settlement of Ijarah; and",
+    "type": "rule",
+    "keywords": [
+      "gain",
+      "loss",
+      "early settlement",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "b. gain or loss on disposal of Ijarah asset – being the difference between the consideration\nreceived or receivable (if any) and the carrying value of the underlying asset.",
+    "type": "rule",
+    "keywords": [
+      "gain",
+      "loss",
+      "disposal of Ijarah asset",
+      "consideration",
+      "carrying value",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "98. If an institution (the seller-lessee) transfers an asset to another institution (the buyer-lessor) and\nduly fulfilling the Shari’ah requirements in this respect, the buyer-lessor unconditionally executes an\nIjarah transaction on the same asset back to the same seller-lessee, both the seller-lessee and the\nbuyer-lessor shall account for the transfer contract and the Ijarah applying paragraphs 99-104.",
+    "type": "rule",
+    "keywords": [
+      "transfer of asset",
+      "Shari’ah requirements",
+      "Ijarah transaction",
+      "seller-lessee",
+      "buyer-lessor",
+      "transfer contract",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "99. The sale of the underlying asset from the seller-lessee to the buyer-lessor takes place when the\ncontrol of the underlying asset duly entailing the risks and rewards incidental to ownership are\ntransferred to the buyer-lessor.",
+    "type": "rule",
+    "keywords": [
+      "sale of underlying asset",
+      "seller-lessee",
+      "buyer-lessor",
+      "control",
+      "risks and rewards",
+      "ownership"
+    ]
+  },
+  {
+    "text": "100. The seller-lessee is case of a proportionate transfer of asset for Ijarah-back, shall measure the right-\nof-use asset proportion after transfer and acquired-back and recognize any gain or loss accordingly.",
+    "type": "rule",
+    "keywords": [
+      "seller-lessee",
+      "proportionate transfer",
+      "Ijarah-back",
+      "right-of-use asset",
+      "gain",
+      "loss"
+    ]
+  },
+  {
+    "text": "101. The seller-lessee shall record the transfer of control of the underlying asset and execution of Ijarah\nas two distinct, independent contracts. This generally includes the legal title as well, unless it can be\nestablished otherwise, that the control is transferred, irrespective of the legal title not being\ntransferred.",
+    "type": "rule",
+    "keywords": [
+      "seller-lessee",
+      "transfer of control",
+      "underlying asset",
+      "execution of Ijarah",
+      "contracts",
+      "legal title",
+      "control"
+    ]
+  },
+  {
+    "text": "112. This standard supersedes the earlier AAOIFI FAS 8 “Ijarah and Ijarah Muntahia Bittamleek”.",
+    "type": "historical",
+    "keywords": [
+      "supersedes",
+      "AAOIFI FAS 8",
+      "Ijarah",
+      "Ijarah Muntahia Bittamleek"
+    ]
+  },
+  {
+    "text": "32\nAppendices\nAppendix A: Adoption of the standard\nThis standard was presented for the approval in the AAOIFI Accounting Board’s 16th meeting held on 2-3 Rabi I 1441H, corresponding to 31 October 2019 and 1 November 2019 and was duly approved.",
+    "type": "historical",
+    "keywords": [
+      "Adoption of the standard",
+      "AAOIFI Accounting Board",
+      "approval",
+      "Rabi I 1441H",
+      "October 2019",
+      "November 2019",
+      "approved"
+    ]
+  },
+  {
+    "text": "Members of the board\n1. Mr. Hamad Abdulla Al Oqab – chairman\n2. Mr. Mohamed Bouya Ould Mohamed Fall – deputy chairman\n3. Mr. Abdelhalim Elsayed Elamin\n4. Dr. Abdulrahman M. Alrazeen\n5. Dr. Bello Lawal Danbatta\n6. Mr. Firas Hamdan\n7. Mr. Hondamir Nusratkhujaev\n8. Mr. Irshad Mahmood\n9. Mr. Mohamed Ibrahim Hammad\n10. Mr. Muhammad Jusuf Wibisana\n11. Mr. Nader Yousif Rahimi\n12. Dr. Saeed Al-Muharrami\n13. Mr. Sulaiman AlBassam\n14. Mr. Syed Najmul Hussain\n15. Mr. Tarik Bolukbas",
+    "type": "misc",
+    "keywords": [
+      "Members of the board",
+      "chairman",
+      "deputy chairman",
+      "board members"
+    ]
+  },
+  {
+    "text": "Reservation\nThe standard was approved unanimously.",
+    "type": "misc",
+    "keywords": [
+      "approved unanimously",
+      "reservation"
+    ]
+  },
+  {
+    "text": "33\nWorking group members\n1. Mr. Firas Hamdan - chairman\n2. Mr. Ali Chreif\n3. Mr. Muhammad Jusuf Wibisana\n4. Mr. Saqib Mustafa\n5. Mr. Syed Najmul Hussain\n6. Mr. Yaser Aljar",
+    "type": "misc",
+    "keywords": [
+      "Working group members",
+      "chairman",
+      "working group"
+    ]
+  },
+  {
+    "text": "Executive team\n1. Mr. Omar Mustafa Ansari (AAOIFI)\n2. Ms. Farida Cassim (AAOIFI)\n3. Mr. Mohammad Majd Bakir (AAOIFI)\n4. Ms. Zahra Jassim AlSairafi (AAOIFI)",
+    "type": "misc",
+    "keywords": [
+      "Executive team",
+      "AAOIFI",
+      "team members"
+    ]
+  },
+  {
+    "text": "34\nAppendix B: Basis for conclusions\nReason for revision of the standard\nBC1\nThe AAOIFI Accounting Board (AAB / the board) deliberated on the need for revision of FAS 8 “Ijarah\nand Ijarah Muntahia Bittamleek” while developing its revised plan in 2016, after its reconstitution. It\nwas also noted that a limited scope revision project for FAS 8 had already been initiated by the\npredecessor board. FAS 8 originally issued in 1997 catered and responded to the need to distinguish\na Shari’ah compliant lease from a conventional lease and to prescribe the correct accounting\ntreatments in line with its true nature in line with Shari’ah. However, considering the fact that there\nhad been significant evolution of the product and its new and innovative variants had become more\ncommon, it was eminent to review and revise the standard duly catering to such needs. Accordingly,\nthe oard decided that there is a need to improve the existing FAS 8.",
+    "type": "historical",
+    "keywords": [
+      "AAOIFI",
+      "FAS 8",
+      "Ijarah",
+      "Ijarah Muntahia Bittamleek",
+      "revision",
+      "Shari'ah",
+      "accounting treatments"
+    ]
+  },
+  {
+    "text": "BC2\nThe board also considered that globally there have been significant changes in lease accounting\nmore recently including major projects by the IASB and the FASB resulting in their respective new\nstandards, which are quite similar to each other (initially planned as convergence standards). In line\nwith the new AAOIFI strategy for financial accounting standards setting, the board decided that the\nrevised standard shall be as close as possible to the new global accounting standards, duly\naddressing the specific Shari'ah requirements and the specific structure of Ijarah transactions which\nis not considered by such global standards.",
+    "type": "historical",
+    "keywords": [
+      "lease accounting",
+      "IASB",
+      "FASB",
+      "AAOIFI",
+      "financial accounting standards",
+      "Shari'ah requirements",
+      "Ijarah transactions"
+    ]
+  },
+  {
+    "text": "Scope exclusion – service Ijarah\nBC3\nFrom Shari’ah standpoint Ijarah has two basic types i.e. asset Ijarah and service Ijarah. Whether or\nnot this standard shall include service Ijarah in its scope was a key question addressed by the\nworking group as well as the board, and was raised during public hearing sessions as well. The board\nconsidered that the service Ijarah can be segregated into two types, being human based or\ntechnology and equipment based such as, bandwidth, telecommunication minutes etc. Considering\nthe significant differences in nature of the two types of Ijarah, the board decided that this standard\nshall cover the asset Ijarah only. However, the service Ijarah which involves equipment as well, the\nsame shall be subject to this standard as such contracts will have an Ijarah element subject to the\nrequirements of this standard. For such type of transactions, the measurement of usufruct can be\nperformed by unit of output or other such measures.",
+    "type": "scope",
+    "keywords": [
+      "service Ijarah",
+      "asset Ijarah",
+      "scope",
+      "working group",
+      "board",
+      "usufruct",
+      "unit of output"
+    ]
+  },
+  {
+    "text": "Key distinguishing factors between an Ijarah MBT and conventional finance lease\nBC4\nAn Ijarah is principally a lease transaction.",
+    "type": "definition",
+    "keywords": [
+      "Ijarah",
+      "lease transaction"
+    ]
+  },
+  {
+    "text": "The issue of difference with conventional transactions\narise only in the terms and conditions, which are generally attached to a conventional finance lease\nwhich make it impermissible from Shari'ah perspective and hence Ijarah MBT is principally different\nfrom the conventional finance lease.",
+    "type": "juristic",
+    "keywords": [
+      "conventional finance lease",
+      "Shari'ah",
+      "Ijarah MBT"
+    ]
+  },
+  {
+    "text": "BC5\nThe board considered that in an Ijarah MBT, it is a primary condition by Shari’ah that the risks and\nrewards incidental to ownership are with the lessor throughout the lease term. Whereas, in a\nfinance lease, according to its definition, substantially all risk and rewards incidental to ownership\nare transferred to the lessee at inception of lease i.e. in substance it is considered to be a sale. It is\nworth noting that if substantially all risk and rewards in a lease transaction are transferred at\ninception, the same cannot be termed as Shari’ah compliant. This is because, as per Shari’ah an\nIjarah is separate from the sale or gift transaction, as two contracts (or one contract and one",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "Shari'ah",
+      "risks and rewards",
+      "lessor",
+      "finance lease",
+      "sale",
+      "Ijarah",
+      "contracts"
+    ]
+  },
+  {
+    "text": "35\npromise) are to be accounted for separately, duly distinguishing the respective risks, rewards and\nresponsibilities of both parties. Considering these factors, the oard reiterated that the option of\naccounting for Ijarah MBT similar to conventional finance lease is not acceptable.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "conventional finance lease",
+      "accounting",
+      "risks",
+      "rewards",
+      "responsibilities"
+    ]
+  },
+  {
+    "text": "BC6\nThe same issue was discussed in detail at the working group and the board as well as public hearings\nand was also specifically referred to the Shari’ah board’s committee for review of financial\naccounting and governance standards. After due deliberations, it was decided that fundamentally\nthere shall be no difference in accounting for the Ijarah or Ijarah MBT as an Ijarah MBT is essentially\nan Ijarah transaction and any future commitment for sale or gift cannot be combined with the Ijarah\ncontract.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah",
+      "Ijarah MBT",
+      "Shari'ah board",
+      "accounting",
+      "sale",
+      "gift",
+      "contract"
+    ]
+  },
+  {
+    "text": "BC7\nIt is also worth noting that from the economic substance perspective, the subject matter of an Ijarah\ntransaction is the usufruct whereas the subject matter of a conventional finance lease is the\nfinancing.",
+    "type": "definition",
+    "keywords": [
+      "Ijarah",
+      "usufruct",
+      "conventional finance lease",
+      "financing"
+    ]
+  },
+  {
+    "text": "This is the reason that the conventional accounting standards focus on recognition of\nliability, as the primary requirement.",
+    "type": "misc",
+    "keywords": [
+      "conventional accounting standards",
+      "liability",
+      "recognition"
+    ]
+  },
+  {
+    "text": "The board also took a considered view that the concept of\nminimum lease payment cannot be applied in line with Shari'ah principles.",
+    "type": "rule",
+    "keywords": [
+      "minimum lease payment",
+      "Shari'ah principles"
+    ]
+  },
+  {
+    "text": "In Ijarah the ‘gross Ijarah\nliability’ comprise of the total Ijarah rentals and not total lease payments.",
+    "type": "definition",
+    "keywords": [
+      "Ijarah",
+      "gross Ijarah liability",
+      "Ijarah rentals",
+      "lease payments"
+    ]
+  },
+  {
+    "text": "In other words, total lease\npayments under conventional accounting standards include guaranteed residual value and other\nadvanced initial deposits etc. which is not acceptable for Ijarah, duly considering the Ijarah and sale /\ngift as separate transactions.",
+    "type": "rule",
+    "keywords": [
+      "lease payments",
+      "conventional accounting standards",
+      "guaranteed residual value",
+      "Ijarah",
+      "sale",
+      "gift"
+    ]
+  },
+  {
+    "text": "BC8\nThe board also considered the nature of a promise for sale and / or gift executable at a future date.",
+    "type": "misc",
+    "keywords": [
+      "promise for sale",
+      "gift",
+      "future date"
+    ]
+  },
+  {
+    "text": "Considering various factors including in particular, (i) the nature of a unilateral promise /\nundertaking as per Shari’ah, and (ii) the prohibition of combing two transactions in one, the board\nreiterated its view taken earlier at multiple occasions with regard to such transactions, and decided\nthat they do not combine with the Ijarah transaction and do not change the nature of the Ijarah\ntransaction.",
+    "type": "rule",
+    "keywords": [
+      "unilateral promise",
+      "Shari'ah",
+      "prohibition",
+      "Ijarah transaction"
+    ]
+  },
+  {
+    "text": "Key distinguishing factors - Shari’ah perspective\nBC9\nThe above decisions of the board were based on a thorough analysis of the key distinguishing factors\nbetween an Ijarah MBT transaction and conventional finance lease transactions. Certain key\ndistinguishing factors are listed below:\na. in Ijarah MBT, during the lease term, the lessor carries the operational risks related to ownership\ne.g. theft, destruction, technical obsolescence, unavailability for a period due to major\nmaintenance / repairs etc., as well as, the Takaful / insurance cost and taxes related to\nownership of asset;",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "conventional finance lease",
+      "lessor",
+      "operational risks",
+      "ownership",
+      "Takaful",
+      "insurance",
+      "taxes"
+    ]
+  },
+  {
+    "text": "b. in Ijarah MBT, during the lease term, the lessor carries the market risk related to the ownership\nof the asset i.e. if for any reason the promise is not executed at the future date, the gain or loss\nin value of asset relates to the lessor;\nc. in Ijarah MBT, the rentals commence from the time the asset is delivered to the lessee in\ncondition good enough for intended use, and not from the time when the funds are disbursed;\nd. in Ijarah MBT, no rental is chargeable during the period when asset is not available for the\nintended use for any reason; and",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "lessor",
+      "market risk",
+      "rentals",
+      "lessee",
+      "asset delivery",
+      "rental",
+      "asset unavailability"
+    ]
+  },
+  {
+    "text": "36\ne. in Ijarah MBT the ownership transfer takes place against a unilateral promise which is not\nbinding on either of the parties and there are situations when such transfer never takes place\ne.g. destruction or theft of the asset before completion of Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "ownership transfer",
+      "unilateral promise",
+      "asset destruction",
+      "asset theft",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "BC10\nThe board also considered the philosophical foundations of Islamic finance. The fundamentals are\nbased on the prohibition of Riba and permission of trade which means that the time value of money\nis not acceptable, but the time value of economic resources such as goods, assets, labour and\nentrepreneurship is acceptable.",
+    "type": "juristic",
+    "keywords": [
+      "Islamic finance",
+      "Riba",
+      "trade",
+      "time value of money",
+      "economic resources"
+    ]
+  },
+  {
+    "text": "Accordingly, the board took a considered view that in Ijarah MBT,\nthe price (Ijarah rental) is calculated and charged on the use benefit of asset rather than time value\nof money (i.e. disbursed financing).",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "Ijarah rental",
+      "use benefit",
+      "time value of money",
+      "financing"
+    ]
+  },
+  {
+    "text": "As an example, Ijarah rental cannot be charged and recorded\nuntil the underlying asset is in possession of the lessee or if the asset is not available for intended\nuse for any reason.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah rental",
+      "lessee",
+      "asset possession",
+      "asset unavailability"
+    ]
+  },
+  {
+    "text": "In conventional finance lease, on the contrary, the lessor normally commences\ncharging and recording interest on the day financing is disbursed even if the asset is not in existence\nor in possession.",
+    "type": "rule",
+    "keywords": [
+      "conventional finance lease",
+      "lessor",
+      "interest",
+      "financing"
+    ]
+  },
+  {
+    "text": "Operating Ijarah\nBC11\nThe board also noted that there are no significant differences between an operating Ijarah and an\noperating lease.",
+    "type": "misc",
+    "keywords": [
+      "operating Ijarah",
+      "operating lease",
+      "differences"
+    ]
+  },
+  {
+    "text": "The distinguishing factor being ‘risks and rewards’ incidental to ownership belongs\nto the lessor, whereas the use benefit relates to the lessee.",
+    "type": "definition",
+    "keywords": [
+      "risks and rewards",
+      "lessor",
+      "use benefit",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Ijarah in essence are considered to be\nsimilar to an operating lease because of the “risk and reward” factor.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "operating lease",
+      "risk and reward"
+    ]
+  },
+  {
+    "text": "BC12\nThere are however Shari’ah conditions for permissibility of such transactions i.e. if an Ijarah is\nShari’ah compliant in both, form and substance, the risks and rewards incidental to ownership are\nnot transferred to the lessee and as a result Ijarah falls within the definition of an operating lease\nand its accounting should be in line with the same.",
+    "type": "rule",
+    "keywords": [
+      "Shari'ah",
+      "Ijarah",
+      "risks and rewards",
+      "lessee",
+      "operating lease",
+      "accounting"
+    ]
+  },
+  {
+    "text": "This issue was debated by the board and further\nresearch showed that most other Islamic finance standard setters have also developed their\nstandards for Ijarah in line with accounting treatment for operating leases.",
+    "type": "historical",
+    "keywords": [
+      "Islamic finance",
+      "Ijarah",
+      "accounting treatment",
+      "operating leases"
+    ]
+  },
+  {
+    "text": "Accounting for usufruct / right-of-use asset\nBC13\nThe global accounting standard setters while revising their accounting standard for leasing took a\nfundamental shift, whereby the concept of recognition of right-of-use asset was introduced, even in\ncase of operating leases.",
+    "type": "historical",
+    "keywords": [
+      "accounting standard",
+      "leasing",
+      "right-of-use asset",
+      "operating leases"
+    ]
+  },
+  {
+    "text": "The board agreed with certain major changes that were brought in by such\nstandards. Particularly, the board agreed that entering into an Ijarah transaction gives rise to a\n‘right-of-use’ asset (which may also be called a usufruct asset).",
+    "type": "rule",
+    "keywords": [
+      "Ijarah transaction",
+      "right-of-use asset",
+      "usufruct asset"
+    ]
+  },
+  {
+    "text": "BC14\nAccordingly, the board decided that accounting for usufruct or right-of-use asset in the books of the\nlessee (irrespective of being an Ijarah or Ijarah MBT) would have an even fair and transparent view\nof the state of affairs. Therefore, the ‘right-of-use’ asset shall be accounted for as well as the\ncorresponding liability.",
+    "type": "treatment",
+    "keywords": [
+      "usufruct",
+      "right-of-use asset",
+      "lessee",
+      "Ijarah",
+      "Ijarah MBT",
+      "accounting",
+      "liability"
+    ]
+  },
+  {
+    "text": "BC15\nIt must be noted that the transfer of control of the right-of-use asset to the lessee is not the transfer\nof control of the physical asset.",
+    "type": "misc",
+    "keywords": [
+      "right-of-use asset",
+      "lessee",
+      "physical asset"
+    ]
+  },
+  {
+    "text": "Acceptability of usufruct / right-of-use asset from Shari’ah perspective\nBC16\nIn Ijarah, a lessee acquires the usufruct of an underlying asset during the Ijarah term and assumes an\nobligation to make payments to the lessor for granting the right to use that asset. Additionally, the",
+    "type": "juristic",
+    "keywords": [
+      "Ijarah",
+      "lessee",
+      "usufruct",
+      "Ijarah term",
+      "lessor"
+    ]
+  },
+  {
+    "text": "lessee has an obligation to return the underlying asset to the lessor at the end of the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah",
+      "lessee",
+      "obligation",
+      "return",
+      "asset",
+      "lessor",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "The lessor has a right to receive payments from the lessee for providing the right to use the underlying asset.",
+    "type": "rule",
+    "keywords": [
+      "lessor",
+      "right",
+      "receive payments",
+      "lessee",
+      "right to use",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "The lessor also retains rights associated with ownership of the underlying asset.",
+    "type": "rule",
+    "keywords": [
+      "lessor",
+      "rights",
+      "ownership",
+      "underlying asset"
+    ]
+  },
+  {
+    "text": "Having identified the rights and obligations that arise from an Ijarah, the board further considered which of those rights and obligations create assets and liabilities to be accounted for in the books of lessee and lessor.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah",
+      "rights",
+      "obligations",
+      "assets",
+      "liabilities",
+      "lessee",
+      "lessor"
+    ]
+  },
+  {
+    "text": "BC17",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The preliminary study phase for the standard consisted with evaluating all concepts and theories by many accounting bodies.",
+    "type": "historical",
+    "keywords": [
+      "preliminary study",
+      "standard",
+      "evaluating concepts",
+      "theories",
+      "accounting bodies"
+    ]
+  },
+  {
+    "text": "An important topic under discussion was the acceptability and recognition of usufruct as an asset.",
+    "type": "historical",
+    "keywords": [
+      "usufruct",
+      "asset",
+      "recognition",
+      "acceptability"
+    ]
+  },
+  {
+    "text": "Shari’ah considers right-of-use / usufruct as Maal i.e. transferable, with certain conditions, and has its own characteristics of Maal.",
+    "type": "juristic",
+    "keywords": [
+      "Shari’ah",
+      "right-of-use",
+      "usufruct",
+      "Maal",
+      "transferable",
+      "conditions"
+    ]
+  },
+  {
+    "text": "It was important to note that the Shari’ah views usufruct as an intangible asset (being actually a right and not a physical asset).",
+    "type": "juristic",
+    "keywords": [
+      "Shari’ah",
+      "usufruct",
+      "intangible asset",
+      "right",
+      "physical asset"
+    ]
+  },
+  {
+    "text": "BC18",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board considered the pros and cons of this accounting approach, including Shari'ah issues applicable thereto after due consideration with the Shari’ah board’s committee for review of financial accounting and governance standards and decided that usufruct meets the definition of an asset under Shari'ah and under AAOIFI Framework.",
+    "type": "misc",
+    "keywords": [
+      "accounting approach",
+      "Shari'ah issues",
+      "usufruct",
+      "asset",
+      "Shari'ah",
+      "AAOIFI Framework"
+    ]
+  },
+  {
+    "text": "Recognition of right-of-use asset, its amortization and residual value",
+    "type": "misc",
+    "keywords": [
+      "right-of-use asset",
+      "amortization",
+      "residual value"
+    ]
+  },
+  {
+    "text": "BC19",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board was of the view that from Shari'ah perspective, primarily there is an acquisition of a usufruct by the lessee and for that reason a liability is incurred.",
+    "type": "juristic",
+    "keywords": [
+      "Shari'ah perspective",
+      "acquisition",
+      "usufruct",
+      "lessee",
+      "liability"
+    ]
+  },
+  {
+    "text": "Accordingly, the initial recognition of the usufruct is determined as the starting point.",
+    "type": "rule",
+    "keywords": [
+      "initial recognition",
+      "usufruct",
+      "starting point"
+    ]
+  },
+  {
+    "text": "Therefore, the standard requires the “prime cost” of the right-of-use asset to be recognized, rather than recording the present value of minimum lease payments.",
+    "type": "rule",
+    "keywords": [
+      "prime cost",
+      "right-of-use asset",
+      "recognized",
+      "present value",
+      "minimum lease payments"
+    ]
+  },
+  {
+    "text": "BC20",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The oard, considering the Shari’ah requirements and the specific characteristics of Ijarah transactions, concluded that right-of-use is a kind of intangible asset and amortized accordingly.",
+    "type": "rule",
+    "keywords": [
+      "Shari’ah requirements",
+      "Ijarah transactions",
+      "right-of-use",
+      "intangible asset",
+      "amortized"
+    ]
+  },
+  {
+    "text": "Amortization will be from commencement date (and not the inception date – see also paragraph BC30) to the end of useful economic life of the right-of-use asset which will coincide with the end of the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "amortization",
+      "commencement date",
+      "inception date",
+      "useful economic life",
+      "right-of-use asset",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "Amortization over and above the Ijarah term, if allowed, means that the two transactions are combined for the purpose of accounting.",
+    "type": "rule",
+    "keywords": [
+      "amortization",
+      "Ijarah term",
+      "transactions",
+      "accounting"
+    ]
+  },
+  {
+    "text": "BC21",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "Accordingly, the board rejected the idea, even though certain experts during the public hearings suggested to allow amortization of the right-of-use asset over a period over and above the Ijarah term.",
+    "type": "rule",
+    "keywords": [
+      "amortization",
+      "right-of-use asset",
+      "Ijarah term"
+    ]
+  },
+  {
+    "text": "BC22",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "However, the board considered that keeping a residual value of the right-of-use asset at the end of the Ijarah term is an accounting estimate and may be kept if there are additional economic benefits expected.",
+    "type": "rule",
+    "keywords": [
+      "residual value",
+      "right-of-use asset",
+      "Ijarah term",
+      "accounting estimate",
+      "economic benefits"
+    ]
+  },
+  {
+    "text": "Accordingly, once the Ijarah term is complete, there will be a residual value that shall be amortized on a straight-line basis or any other systematic basis, once it is transferred to the owned assets.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah term",
+      "residual value",
+      "amortized",
+      "straight-line basis",
+      "systematic basis",
+      "owned assets"
+    ]
+  },
+  {
+    "text": "BC23",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board considered that through this option the benefit can be passed on to the future periods whereby the residual value is to be kept at a value close to the value of the asset at that time.",
+    "type": "misc",
+    "keywords": [
+      "residual value",
+      "asset"
+    ]
+  },
+  {
+    "text": "This is also in line with requirement in the Shari’ah standards, whereby in the case of an early termination of an Ijarah the lessor is required to compensate the lessee with the additional rentals paid (in an Ijarah MBT) as compared to market norms.",
+    "type": "juristic",
+    "keywords": [
+      "Shari’ah standards",
+      "early termination",
+      "Ijarah",
+      "lessor",
+      "lessee",
+      "rentals",
+      "Ijarah MBT",
+      "market norms"
+    ]
+  },
+  {
+    "text": "38",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "Subsequent measurement – use of fair valuation for right-of-use asset",
+    "type": "misc",
+    "keywords": [
+      "right-of-use asset",
+      "fair valuation",
+      "measurement"
+    ]
+  },
+  {
+    "text": "BC24",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The subsequent measurement of the right-of-use asset was discussed at the working group and the issue was also raised at the public hearings, whereby the generally accepted accounting principles normally allow for fair valuation of the right-of-use asset.",
+    "type": "historical",
+    "keywords": [
+      "right-of-use asset",
+      "working group",
+      "public hearings",
+      "fair valuation"
+    ]
+  },
+  {
+    "text": "The board initially considered the proposal, but considering the specific nature of an Ijarah right-of-use asset, took a considered view that it might not be the right approach to allow fair valuation for an asset which has a limited life and which does not reflect the underlying asset, but only the right-of-use of the same.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah right-of-use asset",
+      "fair valuation",
+      "asset",
+      "limited life",
+      "underlying asset",
+      "right-of-use"
+    ]
+  },
+  {
+    "text": "This was also reaffirmed after discussions on the public hearing comments and the working group comments of the same.",
+    "type": "misc",
+    "keywords": [
+      "public hearing comments",
+      "working group comments"
+    ]
+  },
+  {
+    "text": "BC25",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board considered that if the right-of-use asset is revalued and the value has increased, there is a risk that the periodic financial reports and the income statement will be distorted due to the high amounts of amortization, as this standard does not allow the amortization of right-of-use asset beyond the period of the Ijarah term i.e. during the Ijarah term, there will be a higher charge of amortization which may result in distortion of financial reporting for the period.",
+    "type": "rule",
+    "keywords": [
+      "right-of-use asset",
+      "revalued",
+      "amortization",
+      "Ijarah term",
+      "financial reporting"
+    ]
+  },
+  {
+    "text": "The release of additional effect of amortization will be done directly through equity so it will not be reflected in the income statement.",
+    "type": "rule",
+    "keywords": [
+      "amortization",
+      "equity",
+      "income statement"
+    ]
+  },
+  {
+    "text": "Considering these factors, the board decided to not allow the fair valuation of right-of-use asset.",
+    "type": "rule",
+    "keywords": [
+      "fair valuation",
+      "right-of-use asset"
+    ]
+  },
+  {
+    "text": "BC26",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board evaluated the costs and expenses related to the right-of-use asset.",
+    "type": "misc",
+    "keywords": [
+      "right-of-use asset",
+      "costs",
+      "expenses"
+    ]
+  },
+  {
+    "text": "There were two issues highlighted in related to expenses of the underlying asset – an accounting issue and Shari’ah issue.",
+    "type": "misc",
+    "keywords": [
+      "underlying asset",
+      "accounting issue",
+      "Shari’ah issue"
+    ]
+  },
+  {
+    "text": "The current market practices are generally to record the expense directly by the lessee.",
+    "type": "misc",
+    "keywords": [
+      "market practices",
+      "lessee",
+      "expense"
+    ]
+  },
+  {
+    "text": "However, the board was of the considered view that these expenses shall be recorded by the lessor, and even if the lessee incurs the same, these shall be recorded as recoverable from lessor (even if lessor has a supplementary rental mechanism to recover the same, which shall be accounted for accordingly as a revenue).",
+    "type": "rule",
+    "keywords": [
+      "expenses",
+      "lessor",
+      "lessee",
+      "recoverable",
+      "supplementary rental mechanism",
+      "revenue"
+    ]
+  },
+  {
+    "text": "Ijarah MBT through gradual transfer / Diminishing Musharaka Ijarah",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "Diminishing Musharaka Ijarah"
+    ]
+  },
+  {
+    "text": "BC27",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The Board after taking into account industry comments agreed that the accounting for Ijarah MBT through gradual transfer under FAS 8 was having practical impediments and required improvement.",
+    "type": "historical",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "FAS 8",
+      "accounting"
+    ]
+  },
+  {
+    "text": "In order to avoid the complexities of accounting for Ijarah MBT with gradual transfer, the standard introduces the underlying asset to be termed as a ‘combined asset’ which includes the proportionate underlying asset as well as the right-of-use asset owned by the lessee.",
+    "type": "rule",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer",
+      "combined asset",
+      "right-of-use asset",
+      "lessee"
+    ]
+  },
+  {
+    "text": "BC28",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "It is also considered that if the units are sold at cost (to lessee) depreciation at the end by the lessor is not required, as the residual value is equal to the cost.",
+    "type": "rule",
+    "keywords": [
+      "units",
+      "cost",
+      "lessee",
+      "depreciation",
+      "lessor",
+      "residual value",
+      "cost"
+    ]
+  },
+  {
+    "text": "This shall significantly reduce the accounting complications.",
+    "type": "rule",
+    "keywords": [
+      "accounting complications"
+    ]
+  },
+  {
+    "text": "BC29",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board also considered that there are transactions in different parts of the world which are very similar in characteristics to Ijarah MBT with gradual transfer of ownership, such as ‘Diminishing Musharaka based on Shirkat-ul-Milk with Ijarah’.",
+    "type": "misc",
+    "keywords": [
+      "Ijarah MBT",
+      "gradual transfer of ownership",
+      "Diminishing Musharaka",
+      "Shirkat-ul-Milk",
+      "Ijarah"
+    ]
+  },
+  {
+    "text": "The board decided that all such products shall be subject to the same accounting and reporting requirements under this standard.",
+    "type": "rule",
+    "keywords": [
+      "accounting",
+      "reporting requirements",
+      "standard"
+    ]
+  },
+  {
+    "text": "Ijarah commencement date vs. inception date – issue of future Ijarah",
+    "type": "misc",
+    "keywords": [
+      "Ijarah commencement date",
+      "inception date",
+      "future Ijarah"
+    ]
+  },
+  {
+    "text": "BC30",
+    "type": "misc",
+    "keywords": []
+  },
+  {
+    "text": "The board discussed at length the issue of the commencement date vs. inception date accounting.",
+    "type": "misc",
+    "keywords": [
+      "commencement date",
+      "inception date",
+      "accounting"
+    ]
+  },
+  {
+    "text": "The board, in particular, noted that as per Shari’ah, Ijarah rental can only be charged after",
+    "type": "juristic",
+    "keywords": [
+      "Shari’ah",
+      "Ijarah rental",
+      "charged"
+    ]
+  },
+  {
+    "text": "The newly formed AAOIFI Accounting Board (AAB / the board) held its 1st meeting on 6-7 of Jumada II 1437H, corresponding to 15-16 of March 2016 at Ramee Grand Hotel, Kingdom of Bahrain. In this meeting it was decided that high priority shall be bestowed on the revision of the standard on Ijarah.",
+    "type": "historical",
+    "keywords": [
+      "AAOIFI Accounting Board (AAB)",
+      "Ijarah standard",
+      "revision",
+      "meeting"
+    ]
+  },
+  {
+    "text": "The consultation notes on Ijarah were presented at the 2nd AAB meeting convened on 25-26 Shawwal 1437H, corresponding to 30-31 July 2016. In this meeting the members reviewed the existing FAS 8 including the scope and the accounting treatment in the books of the lessee.",
+    "type": "historical",
+    "keywords": [
+      "Ijarah",
+      "FAS 8",
+      "scope",
+      "accounting treatment",
+      "lessee"
+    ]
+  },
+  {
+    "text": "Additionally, the members discussed Ijarah definition, types and accounting for the Ijarah assets and liabilities. The members agreed that there shall be attempts to iron out, as much as possible, the differences between AAOIFI standards and generally accepted accounting principles, especially with respect to Ijarah. The members agreed that an accounting working group should be formed immediately to that effect.",
+    "type": "historical",
+    "keywords": [
+      "Ijarah definition",
+      "Ijarah types",
+      "Ijarah assets",
+      "Ijarah liabilities",
+      "AAOIFI standards",
+      "accounting principles",
+      "working group"
+    ]
+  },
+  {
+    "text": "The 1st working group on the Ijarah standard was held on 27 Rajab 1438H, corresponding to 24 April 2017. The members agreed that the definition of an Ijarah would be closer to Shari’ah and the new standard will be from scratch, not an adoption or revision of the existing standard and the standard would include accounting for both lessor and lessee.",
+    "type": "historical",
+    "keywords": [
+      "Ijarah standard",
+      "Shari’ah",
+      "lessor",
+      "lessee",
+      "new standard",
+      "definition"
+    ]
+  },
+  {
+    "text": "The committee of the Shari’ah board for review of accounting and governance standards held its 2nd meeting on 7 Muharram 1439H, corresponding to 27 September 2017. This meeting discussed the Shari’ah aspects of recognition of the usufruct of the Ijarah asset and the transfer of risk and reward.",
+    "type": "historical",
+    "keywords": [
+      "Shari’ah board",
+      "accounting standards",
+      "governance standards",
+      "usufruct",
+      "Ijarah asset",
+      "risk transfer",
+      "reward transfer"
+    ]
+  },
+  {
+    "text": "The initial exposure draft was presented at the 2nd working group held on 12 Ramadan 1439H, corresponding to 7 June 2017. The working group deliberated on the draft and it was recommended to the board.",
+    "type": "historical",
+    "keywords": [
+      "exposure draft",
+      "working group",
+      "board",
+      "deliberation"
+    ]
+  },
+  {
+    "text": "The AAB held its 10th meeting on 7-8 Shawwal 1439H, corresponding to 21-22 of June 2018 in Beirut, Lebanese Republic. In this meeting the contents of the draft standard were discussed, and it was decided to be presented at the next Board meeting for further discussion.",
+    "type": "historical",
+    "keywords": [
+      "AAB meeting",
+      "draft standard",
+      "Beirut",
+      "discussion",
+      "Board meeting"
+    ]
+  },
+  {
+    "text": "After incorporating comments and suggestion from the previous board meeting, the draft was presented for the second time at the 11th AAB meeting on 21-22 Dhul-Hijjah 1439H, corresponding to 1-2 September 2018 at the AAOIFI head-office in the Kingdom of Bahrain. The exposure draft was principally approved in this meeting.",
+    "type": "historical",
+    "keywords": [
+      "AAB meeting",
+      "exposure draft",
+      "AAOIFI head-office",
+      "Kingdom of Bahrain",
+      "approval"
+    ]
+  },
+  {
+    "text": "The exposure draft was officially issued on 24 Rabi’ II 1440H, corresponding to 31 December 2018, after a 3rd working group meeting held on 19 Rabi’ II corresponding to 26 December 2018 where members finalized the exposure draft based on instructions from the AAB.",
+    "type": "historical",
+    "keywords": [
+      "exposure draft",
+      "working group meeting",
+      "AAB",
+      "issuance"
+    ]
+  },
+  {
+    "text": "The public hearing for the exposure draft was conducted in multiple jurisdictions during 2019. The first public hearing event for the exposure draft was conducted in February of 2019 in United Arab Emirates (hosted by Abu Dhabi Islamic Bank - ADIB) and Pakistan (hosted by ICAP).",
+    "type": "historical",
+    "keywords": [
+      "public hearing",
+      "exposure draft",
+      "jurisdictions",
+      "United Arab Emirates",
+      "Pakistan"
+    ]
+  },
+  {
+    "text": "Additionally, public hearings were conducted in Egypt (hosted by Egyptian Islamic finance Association – EIFA) and Turkey (hosted by KGK and TKBB) in June of 2019.",
+    "type": "historical",
+    "keywords": [
+      "public hearings",
+      "Egypt",
+      "Turkey",
+      "Islamic finance"
+    ]
+  },
+  {
+    "text": "A roundtable event on the exposure draft was held on 13 Muharram 1441H, corresponding to 12 September 2019. The event was hosted by Al-Baraka Banking Group, at its headquarters, Bahrain Bay in the kingdom of Bahrain.",
+    "type": "historical",
+    "keywords": [
+      "roundtable event",
+      "exposure draft",
+      "Al-Baraka Banking Group",
+      "Bahrain Bay"
+    ]
+  },
+  {
+    "text": "A select group of finance and banking leaders, representatives of central banks, CEOs and CFOs of leading banking and financial institutions, leading scholars and experts, and representatives of regional and international organizations, among others participated in the event and contributed their valuable insights.",
+    "type": "historical",
+    "keywords": [
+      "finance leaders",
+      "banking leaders",
+      "central banks",
+      "financial institutions",
+      "scholars",
+      "experts",
+      "organizations"
+    ]
+  },
+  {
+    "text": "All comments received from public hearings along with the views and comments from different industry participants on the exposure draft was then presented for discussion at two working group meetings held on 10 Safar 1441H, corresponding to 9 October 2019 and 29 Safar 1441H, corresponding to 28 October 2019.",
+    "type": "historical",
+    "keywords": [
+      "public hearings",
+      "industry participants",
+      "exposure draft",
+      "working group meetings"
+    ]
+  },
+  {
+    "text": "All comments and recommendations received on the final version of the exposure draft was then presented for discussion at the 16th AAB meeting held on 3-4 Rabi’ I 1440H, corresponding to 31 October and 1 November 2019 in the Kingdom of Bahrain. The board deliberated on changes suggested by the working group and the standard was approved for final issuance.",
+    "type": "historical",
+    "keywords": [
+      "exposure draft",
+      "AAB meeting",
+      "Kingdom of Bahrain",
+      "working group",
+      "final issuance",
+      "board"
+    ]
+  },
+  {
+    "text": "The standard was approved for publishing with instructions for making suggested changes. After due process, the standard was issued on 4 Jumada I 1440H, corresponding to 30 December 2019.",
+    "type": "historical",
+    "keywords": [
+      "standard",
+      "publishing",
+      "issuance",
+      "suggested changes"
+    ]
+  }
+]

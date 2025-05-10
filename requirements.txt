@@ -1,2 +1,6 @@
 pymupdf
 pydantic
+google-generativeai
+python-dotenv
+pinecone
+openai

@@ -1,0 +1,1725 @@
+[
+  {
+    "text": "Financial Accounting Standard No. (7) Salam and Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Financial Accounting Standard",
+      "Salam",
+      "Parallel Salam"
+    ]
+  },
+  {
+    "text": "259",
+    "type": "misc",
+    "keywords": [
+      "page number"
+    ]
+  },
+  {
+    "text": "Contents Subject Para. Page",
+    "type": "misc",
+    "keywords": [
+      "Table of Contents"
+    ]
+  },
+  {
+    "text": "Salam and Parallel Salam Preface Preface ................................................................................. ................................................................................ 261",
+    "type": "misc",
+    "keywords": [
+      "Salam",
+      "Parallel Salam",
+      "Preface"
+    ]
+  },
+  {
+    "text": "Statement of the Standard Statement of the Standard ................................................... ................................................... (1-21) 262",
+    "type": "misc",
+    "keywords": [
+      "Statement of the Standard"
+    ]
+  },
+  {
+    "text": "1. Scope of the Standard 1. Scope of the Standard .......................................................... ........................................................... (1) 262",
+    "type": "rule",
+    "keywords": [
+      "Scope of the Standard"
+    ]
+  },
+  {
+    "text": "2. Accounting treatments of Salam financing and parallel Salam transactions Salam transactions ................................................................ ................................................................ (2-19) 262",
+    "type": "treatment",
+    "keywords": [
+      "Accounting treatment",
+      "Salam financing",
+      "parallel Salam transactions"
+    ]
+  },
+  {
+    "text": "3. Disclosure requirements 3. Disclosure requirements ...................................................... ....................................................... (20) 265",
+    "type": "disclosure",
+    "keywords": [
+      "Disclosure requirements"
+    ]
+  },
+  {
+    "text": "4. Effective Date 4. Effective Date ........................................................................ ........................................................................ (21) 265",
+    "type": "rule",
+    "keywords": [
+      "Effective Date"
+    ]
+  },
+  {
+    "text": "Adoption of the Standard Adoption of the Standard .................................................... ..................................................... 266",
+    "type": "misc",
+    "keywords": [
+      "Adoption of the Standard"
+    ]
+  },
+  {
+    "text": "Appendix (a): Appendix (a): Brief History of the Preparation of the Brief History of the Preparation of the Standard Standard .............................................................. ............................................................... 267",
+    "type": "historical",
+    "keywords": [
+      "Brief History",
+      "Preparation of the Standard"
+    ]
+  },
+  {
+    "text": "Appendix (b): Appendix (b): Juristic rules of Salam and parallel Salam Juristic rules of Salam and parallel Salam ...... ...... 269",
+    "type": "juristic",
+    "keywords": [
+      "Juristic rules",
+      "Salam",
+      "parallel Salam"
+    ]
+  },
+  {
+    "text": "Appendix (c): Appendix (c): Reasons for the standard Reasons for the standard .................................. ................................... 277",
+    "type": "misc",
+    "keywords": [
+      "Reasons for the standard"
+    ]
+  },
+  {
+    "text": "Appendix (d): Appendix (d): Basis for Conclusions Basis for Conclusions ........................................ ......................................... 278",
+    "type": "misc",
+    "keywords": [
+      "Basis for Conclusions"
+    ]
+  },
+  {
+    "text": "Appendix (e): Appendix (e): Definitions Definitions .......................................................... ........................................................... 281",
+    "type": "definition",
+    "keywords": [
+      "Definitions"
+    ]
+  },
+  {
+    "text": "This standard aims at setting out accounting rules for recognizing, measur-ing, presenting and disclosing Salam financing and parallel Salam transactions carried out by the Islamic banks and financial institutions.",
+    "type": "misc",
+    "keywords": [
+      "Salam financing",
+      "parallel Salam transactions",
+      "accounting rules",
+      "recognition",
+      "measurement",
+      "presentation",
+      "disclosure"
+    ]
+  },
+  {
+    "text": "carried out by the Islamic banks and financial institutions.(1)",
+    "type": "misc",
+    "keywords": [
+      "Islamic banks",
+      "financial institutions",
+      "Salam transactions"
+    ]
+  },
+  {
+    "text": "(1) Attached with the standard are details of the juristic bases for the accounting treatments.",
+    "type": "misc",
+    "keywords": [
+      "juristic bases",
+      "accounting treatments",
+      "standard"
+    ]
+  },
+  {
+    "text": "(1) Referred to hereafter as Islamic bank or Islamic banks.",
+    "type": "misc",
+    "keywords": [
+      "Islamic bank",
+      "Islamic banks"
+    ]
+  },
+  {
+    "text": "This standard addresses the accounting rules of Salam financing and parallel Salam transactions. This includes the treatment of Ra`s Al-Mal paid by the Islamic bank in a Salam transaction or that which it receives in a parallel Salam transaction, the receipt and sale of Al-Muslam Fihi in a Salam transaction or the delivery of its like in a parallel Salam transaction.",
+    "type": "rule",
+    "keywords": [
+      "Salam financing",
+      "parallel Salam transactions",
+      "accounting rules",
+      "Ra`s Al-Mal",
+      "Al-Muslam Fihi",
+      "treatment"
+    ]
+  },
+  {
+    "text": "The standard also includes the treatment of revenues, expenses, gains and losses relating to Salam financing and parallel Salam transactions.",
+    "type": "rule",
+    "keywords": [
+      "revenues",
+      "expenses",
+      "gains",
+      "losses",
+      "Salam financing",
+      "parallel Salam transactions",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Should the requirements of this standard be in conflict with the Islamic bank’s charter or the laws and regulations of the country in which it operates, a disclosure should be made of the point of conflict. (para. 1)",
+    "type": "disclosure",
+    "keywords": [
+      "conflict",
+      "Islamic bank charter",
+      "laws and regulations",
+      "disclosure"
+    ]
+  },
+  {
+    "text": "2/1  Salam financing shall be recognized when the capital of Salam is paid (whether in cash, kind or benefit) to Al-Muslam Ileihi or when it is made available to him. (para. 2)",
+    "type": "rule",
+    "keywords": [
+      "Salam financing",
+      "recognition",
+      "capital",
+      "Al-Muslam Ileihi",
+      "cash",
+      "kind",
+      "benefit"
+    ]
+  },
+  {
+    "text": "2/2 Parallel Salam transactions shall be recognized when the Islamic bank receives the capital of Salam (in cash, kind or benefit). (para. 3)",
+    "type": "rule",
+    "keywords": [
+      "parallel Salam transactions",
+      "recognition",
+      "Islamic bank",
+      "capital",
+      "cash",
+      "kind",
+      "benefit"
+    ]
+  },
+  {
+    "text": "2/3 At the Time of Contracting",
+    "type": "misc",
+    "keywords": [
+      "Time of Contracting"
+    ]
+  },
+  {
+    "text": "a) Capital is measured by the amount paid. (para. 4)",
+    "type": "rule",
+    "keywords": [
+      "capital",
+      "measurement",
+      "amount paid"
+    ]
+  },
+  {
+    "text": "b) Capital provided in kind or benefit shall be measured at the fair value (the value agreed between the Islamic bank and the client) of the asset or the provided benefit. (para. 5)",
+    "type": "rule",
+    "keywords": [
+      "capital",
+      "kind",
+      "benefit",
+      "fair value",
+      "Islamic bank",
+      "client",
+      "asset"
+    ]
+  },
+  {
+    "text": "2/4 At the end of a financial period",
+    "type": "misc",
+    "keywords": [
+      "end of financial period"
+    ]
+  },
+  {
+    "text": "a) Capital is measured at the end of a financial period as in item 2/3. However, if it is probable that Al-Muslam Ileihi will not deliver Al-",
+    "type": "rule",
+    "keywords": [
+      "capital",
+      "measurement",
+      "end of financial period",
+      "Al-Muslam Ileihi",
+      "delivery"
+    ]
+  },
+  {
+    "text": "If it is probable that Al-Muslam Ileihi will not deliver Al-Muslam Fihi in full or in part, or it is probable that the value of Al-Muslam Fihi will decline, the Islamic bank shall make a a provision of the amount of the estimated deficit. (para. 6)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "delivery",
+      "decline in value",
+      "provision",
+      "estimated deficit"
+    ]
+  },
+  {
+    "text": "b) Salam financing transactions shall be presented in the Islamic bank’s financial statements under the heading of Salam Financing. (para. 7)",
+    "type": "treatment",
+    "keywords": [
+      "Salam financing",
+      "financial statements",
+      "presentation",
+      "Salam Financing"
+    ]
+  },
+  {
+    "text": "c) Parallel Salam transactions shall be presented in the Islamic bank’s financial statements as a liability under the heading Parallel Salam. (para. 8)",
+    "type": "treatment",
+    "keywords": [
+      "Parallel Salam",
+      "financial statements",
+      "liability",
+      "presentation",
+      "Parallel Salam"
+    ]
+  },
+  {
+    "text": "2/5 Receipt of Al-Muslam Fihi",
+    "type": "misc",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "receipt"
+    ]
+  },
+  {
+    "text": "2/5/1 Assets constitutive of Al-Muslam Fihi received by the Islamic bank in accordance with the contract are recorded at their historical cost. (para. 9)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "assets",
+      "historical cost",
+      "recording"
+    ]
+  },
+  {
+    "text": "2/5/2 In the case of receipt of a similar kind of Al-Muslam Fihi, but of a different quality:",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "similar kind",
+      "different quality",
+      "receipt"
+    ]
+  },
+  {
+    "text": "2/5/2/1 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is equal to the value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at Al-Muslam Fihi shall be measured and recorded at book value. (para. 10)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "market value",
+      "fair value",
+      "book value",
+      "measurement",
+      "recording"
+    ]
+  },
+  {
+    "text": "2/5/2/2 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of the contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at market value (or fair value) at the time of delivery and the difference shall be recognized as a loss. (para.11)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "market value",
+      "fair value",
+      "book value",
+      "loss",
+      "measurement",
+      "recording",
+      "delivery"
+    ]
+  },
+  {
+    "text": "2/5/3 In the case of failure of the Islamic bank to receive 2/5/3 In the case of failure of the Islamic bank to receive Al-Muslam Al-Muslam Fihi Fihi or part thereof at the due date of delivery: or part thereof at the due date of delivery:",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "failure to receive",
+      "delivery",
+      "due date"
+    ]
+  },
+  {
+    "text": "2/5/3/1 In case of complete or partial failure, if the delivery 2/5/3/1 In case of complete or partial failure, if the delivery date date is extended, the book value of Al-Muslam Fihi shall remain as it is. (para. 12)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "failure",
+      "delivery date",
+      "extension",
+      "book value"
+    ]
+  },
+  {
+    "text": "2/5/3/2 If the Salam financing contract is completely or partially cancelled and the client does not repay the capital of Salam, the amount shall be recognized as a receivable due from the client. (para. 13)",
+    "type": "treatment",
+    "keywords": [
+      "Salam financing",
+      "contract cancellation",
+      "client",
+      "receivable"
+    ]
+  },
+  {
+    "text": "2/5/4  Failure of the Islamic bank to receive 2/5/4  Failure of the Islamic bank to receive Al-Muslam Fihi Al-Muslam Fihi due to due to client’s misconduct or negligence:",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "failure to receive",
+      "client misconduct",
+      "negligence"
+    ]
+  },
+  {
+    "text": "2/5/4/1 Complete or partial failure",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "failure",
+      "complete",
+      "partial"
+    ]
+  },
+  {
+    "text": "a) If the Salam financing contract is completely or partially cancelled and the client has failed to repay the capital of Salam or the required portion thereof, the amount due shall be recognized as a receivable due from the client. (para. 14)",
+    "type": "treatment",
+    "keywords": [
+      "Salam financing",
+      "contract cancellation",
+      "client",
+      "receivable",
+      "capital repayment"
+    ]
+  },
+  {
+    "text": "b) In case the Islamic bank has securities pledged against against Al-Muslam Fihi Al-Muslam Fihi and the proceeds from the and the proceeds from the sale of the securities are less than its book value, the difference is recognized as a receivable due from the client. ",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "securities",
+      "pledged",
+      "book value",
+      "receivable",
+      "client"
+    ]
+  },
+  {
+    "text": "Alternatively, if the proceeds are more than the book value then the difference is credited to the client. (para. 15)",
+    "type": "treatment",
+    "keywords": [
+      "proceeds",
+      "book value",
+      "difference",
+      "credit",
+      "client"
+    ]
+  },
+  {
+    "text": "c) The client shall be debited with any additional amounts which are established in favour of the Islamic bank. (para. 16)",
+    "type": "treatment",
+    "keywords": [
+      "client",
+      "debit",
+      "additional amounts",
+      "Islamic bank"
+    ]
+  },
+  {
+    "text": "2/6 Substitution of another kind of goods for 2/6 Substitution of another kind of goods for Al-Muslam Fihi Al-Muslam Fihi",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "substitution",
+      "goods"
+    ]
+  },
+  {
+    "text": "Item 2/5/2/2 shall also apply in case another kind of goods is substituted for substituted for Al-Muslam Fihi Al-Muslam Fihi and the market or fair value of the and the market or fair value of the substitute is less than the book value of substitute is less than the book value of Al-Muslam Fihi Al-Muslam Fihi. (para. 17)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "substitution",
+      "market value",
+      "fair value",
+      "book value",
+      "goods"
+    ]
+  },
+  {
+    "text": "2/7 Measurement of the value of 2/7 Measurement of the value of Al-Muslam Fihi Al-Muslam Fihi at the end of a financial at the end of a financial period after it is received",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "measurement",
+      "financial period"
+    ]
+  },
+  {
+    "text": "At the end of a financial period, assets acquired through Salam financing shall be measured at the lower of historical cost and cash equivalent value, and if the cash equivalent value is lower the difference shall be recognized as loss in the income statement. (para. 18)",
+    "type": "treatment",
+    "keywords": [
+      "Salam financing",
+      "assets",
+      "historical cost",
+      "cash equivalent value",
+      "loss",
+      "income statement",
+      "measurement"
+    ]
+  },
+  {
+    "text": "2/8 Recognition of the result of delivering of 2/8 Recognition of the result of delivering of Al-Muslam Fihi Al-Muslam Fihi in a parallel in a parallel Salam transaction",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "parallel Salam",
+      "recognition",
+      "delivery"
+    ]
+  },
+  {
+    "text": "Upon delivery of Upon delivery of Al-Muslam Fihi Al-Muslam Fihi by the Islamic bank to the client in by the Islamic bank to the client in a parallel Salam transaction, the difference between the amount a parallel Salam transaction, the difference between the amount paid paid by the client and the cost of by the client and the cost of Al-Muslam Fihi Al-Muslam Fihi shall be recognized as shall be recognized as profit or loss. (para. 19)",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "parallel Salam",
+      "profit",
+      "loss",
+      "delivery",
+      "client",
+      "cost"
+    ]
+  },
+  {
+    "text": "3. Disclosure Requirements",
+    "type": "misc",
+    "keywords": [
+      "disclosure requirements"
+    ]
+  },
+  {
+    "text": "The disclosure requirements stated in Financial Accounting Standard No. (1): General Presentation and Disclosure in the Financial Statements of of Islamic Banks and Financial Institutions should be observed. (para. 20)",
+    "type": "disclosure",
+    "keywords": [
+      "disclosure requirements",
+      "Financial Accounting Standard No. (1)",
+      "Islamic Banks",
+      "Financial Institutions"
+    ]
+  },
+  {
+    "text": "4. Effective Date",
+    "type": "misc",
+    "keywords": [
+      "effective date"
+    ]
+  },
+  {
+    "text": "This Standard shall be effective for financial statements for fiscal periods beginning beginning 1 Muharram 1419 A.H. or 1 January 1999 A.D. (para. 21) 1 Muharram 1419 A.H. or 1 January 1999 A.D. (para. 21)",
+    "type": "misc",
+    "keywords": [
+      "effective date",
+      "financial statements",
+      "fiscal periods",
+      "1 Muharram 1419 A.H.",
+      "1 January 1999 A.D."
+    ]
+  },
+  {
+    "text": "Financial Accounting Standard No. (7): Salam and Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Salam",
+      "Parallel Salam",
+      "Financial Accounting Standard"
+    ]
+  },
+  {
+    "text": "The Standard of Salam and Parallel Salam was adopted by the Accounting and Auditing Standards Board in its meeting No. (13) held on 10-11 Safar 1418 A.H., corresponding to 15-16 June 1997 A.D.",
+    "type": "rule",
+    "keywords": [
+      "adoption",
+      "Salam",
+      "Parallel Salam",
+      "Accounting and Auditing Standards Board",
+      "date"
+    ]
+  },
+  {
+    "text": "Members of the Board",
+    "type": "misc",
+    "keywords": [
+      "Board Members"
+    ]
+  },
+  {
+    "text": "1. Abdul Malik Yousef Al Hamar\nChairman",
+    "type": "misc",
+    "keywords": [
+      "Abdul Malik Yousef Al Hamar",
+      "Chairman"
+    ]
+  },
+  {
+    "text": "2. Noor ur Rahman Abid\nDeputy Chairman",
+    "type": "misc",
+    "keywords": [
+      "Noor ur Rahman Abid",
+      "Deputy Chairman"
+    ]
+  },
+  {
+    "text": "3. Dr. Ahmed Ali Abdallah",
+    "type": "misc",
+    "keywords": [
+      "Dr. Ahmed Ali Abdallah"
+    ]
+  },
+  {
+    "text": "4. Anwar Khalifa Sadah",
+    "type": "misc",
+    "keywords": [
+      "Anwar Khalifa Sadah"
+    ]
+  },
+  {
+    "text": "5. Dr. Hussein Hussein Shehata",
+    "type": "misc",
+    "keywords": [
+      "Dr. Hussein Hussein Shehata"
+    ]
+  },
+  {
+    "text": "6. Khalid Abdulla Janahi",
+    "type": "misc",
+    "keywords": [
+      "Khalid Abdulla Janahi"
+    ]
+  },
+  {
+    "text": "7. Rashid Akhtar Chughtai",
+    "type": "misc",
+    "keywords": [
+      "Rashid Akhtar Chughtai"
+    ]
+  },
+  {
+    "text": "8. Salah Eldin Ali Abu Naga",
+    "type": "misc",
+    "keywords": [
+      "Salah Eldin Ali Abu Naga"
+    ]
+  },
+  {
+    "text": "9. Dr. Abdul Sattar Abughoddah",
+    "type": "misc",
+    "keywords": [
+      "Dr. Abdul Sattar Abughoddah"
+    ]
+  },
+  {
+    "text": "10. Dr. Omar Zuhair Hafez",
+    "type": "misc",
+    "keywords": [
+      "Dr. Omar Zuhair Hafez"
+    ]
+  },
+  {
+    "text": "11. Mohammed Alawi Thiban",
+    "type": "misc",
+    "keywords": [
+      "Mohammed Alawi Thiban"
+    ]
+  },
+  {
+    "text": "12. Mustapha Bin Hamat",
+    "type": "misc",
+    "keywords": [
+      "Mustapha Bin Hamat"
+    ]
+  },
+  {
+    "text": "13. Musa Abdel Aziz Shehadeh",
+    "type": "misc",
+    "keywords": [
+      "Musa Abdel Aziz Shehadeh"
+    ]
+  },
+  {
+    "text": "14. Nabil Abdul Elah Nassief",
+    "type": "misc",
+    "keywords": [
+      "Nabil Abdul Elah Nassief"
+    ]
+  },
+  {
+    "text": "Financial Accounting Standard No. (7): Salam and Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Salam",
+      "Parallel Salam",
+      "Financial Accounting Standard"
+    ]
+  },
+  {
+    "text": "Appendix (A)\nBrief History of\nthe Preparation of the Standard",
+    "type": "misc",
+    "keywords": [
+      "History",
+      "Standard Preparation"
+    ]
+  },
+  {
+    "text": "A letter was sent on 30 Jumada I, 1416 A.H., corresponding to 24 October 1995 A.D., to the Islamic financial institutions to seek their opinion on the standards to be given priority.",
+    "type": "historical",
+    "keywords": [
+      "Islamic financial institutions",
+      "standards",
+      "priority",
+      "date"
+    ]
+  },
+  {
+    "text": "After taking into consideration the replies received from the Islamic financial institutions, the Accounting and Auditing Standards Board (Standards Board) decided in its meeting No. (9) held on 24-25 Rabi’ II, 1415 A.H., corresponding to 19-20 September 1995 A.D., in Bahrain, to give priority to the preparation of a standard on Salam and Parallel Salam.",
+    "type": "rule",
+    "keywords": [
+      "Accounting and Auditing Standards Board",
+      "Salam",
+      "Parallel Salam",
+      "priority",
+      "date",
+      "Bahrain"
+    ]
+  },
+  {
+    "text": "In its meeting No. (3) held on 26 Jumada II, 1416 A.H., corresponding to 18 November 1995 A.D., in Bahrain, the Accounting Standards Committee of the Standards Board decided to commission a consultant to prepare a study on the juristic aspects of the standard, and in its meeting No. (4) held on 14-15 Dhul-Qa’dah 1416 A.H., corresponding to 2-3 April 1996 A.D., in Jordan, the Committee commissioned another consultant to prepare a study on the accounting aspects of the standard.",
+    "type": "historical",
+    "keywords": [
+      "Accounting Standards Committee",
+      "consultant",
+      "juristic aspects",
+      "accounting aspects",
+      "date",
+      "Bahrain",
+      "Jordan"
+    ]
+  },
+  {
+    "text": "In Rabi’ I, 1416 A.H., corresponding to August 1996 A.D., the consultants completed the juristic and accounting studies.",
+    "type": "historical",
+    "keywords": [
+      "consultants",
+      "juristic studies",
+      "accounting studies",
+      "date"
+    ]
+  },
+  {
+    "text": "The Accounting Standards Committee discussed the results of both studies and the exposure draft of the standard in its meeting No. (6) held on 17-18 Rabi’ II, 1417 A.H., corresponding to 31 August–1 September 1996 A.D., and its meeting No. (7) held on 28-29 Jumada II, 1417 A.H., corresponding to 9-10 November 1996 A.D., held in Bahrain.",
+    "type": "historical",
+    "keywords": [
+      "Accounting Standards Committee",
+      "exposure draft",
+      "date",
+      "Bahrain"
+    ]
+  },
+  {
+    "text": "Both documents were revised in light of the discussions that took place and the comments given by the members.",
+    "type": "misc",
+    "keywords": [
+      "documents",
+      "revision",
+      "comments"
+    ]
+  },
+  {
+    "text": "The exposure draft was submitted to the Shari’a Committee in its meeting No. (5) held on 20-22 Rajab 1417 A.H., corresponding to 1-3 December 1996 A.D., in Bahrain, and the amendments which it deemed necessary were made.",
+    "type": "historical",
+    "keywords": [
+      "Shari’a Committee",
+      "exposure draft",
+      "amendments",
+      "date",
+      "Bahrain"
+    ]
+  },
+  {
+    "text": "The amended exposure draft was discussed in the Standards Board meeting No. (12) held on 9-11 Ramadan 1417 A.H., corresponding to 18-20 January 1997 A.D., in Jeddah, Saudi Arabia.",
+    "type": "historical",
+    "keywords": [
+      "Standards Board",
+      "exposure draft",
+      "date",
+      "Jeddah",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "text": "The Standards Board made further amendments to the exposure draft and decided that it should be distributed to specialists and interested parties to obtain their comments on the exposure draft in order to discuss them in a listening session.",
+    "type": "rule",
+    "keywords": [
+      "Standards Board",
+      "exposure draft",
+      "amendments",
+      "comments",
+      "listening session"
+    ]
+  },
+  {
+    "text": "Two listening sessions were held, one in Bahrain on 14-15 Dhul-Qa’dah 1417 A.H., corresponding to 23-24 March 1997 A.D., and the other in Malaysia on 24-25 Dhul-Qa’dah 1417 A.H., corresponding to 34 April 1997 A.D.",
+    "type": "historical",
+    "keywords": [
+      "listening sessions",
+      "Bahrain",
+      "Malaysia",
+      "date"
+    ]
+  },
+  {
+    "text": "The listening sessions were attended by more than 145 participants representing central banks, Islamic banks, accounting firms, Shari’a scholars, academics and others who are interested in this field.",
+    "type": "misc",
+    "keywords": [
+      "listening sessions",
+      "participants",
+      "central banks",
+      "Islamic banks",
+      "Shari’a scholars",
+      "academics"
+    ]
+  },
+  {
+    "text": "Members of the Accounting Standards Committee responded in the listening sessions to both the written comments that were received prior to the listening sessions as well as the oral comments that were expressed in the sessions of the listening sessions.",
+    "type": "misc",
+    "keywords": [
+      "Accounting Standards Committee",
+      "listening sessions",
+      "comments",
+      "written comments",
+      "oral comments"
+    ]
+  },
+  {
+    "text": "The Accounting Standards Committee held two meetings on 15 Dhul-Qa’dah 1417 A.H., corresponding to 24 March 1997 A.D., and 23 Dhul-Hajjah 1417 A.H., corresponding to 30 April 1997 A.D., to discuss the comments made about the exposure draft.",
+    "type": "historical",
+    "keywords": [
+      "Accounting Standards Committee",
+      "comments",
+      "exposure draft",
+      "date"
+    ]
+  },
+  {
+    "text": "The Committee made the necessary amendments which it deemed necessary in light of the discussions that took place in the two listening sessions.",
+    "type": "misc",
+    "keywords": [
+      "Committee",
+      "amendments",
+      "listening sessions"
+    ]
+  },
+  {
+    "text": "The revised exposure draft was reviewed and approved by the Shari’a Committee in its meeting No. (6) which was held on 1-2 Muharram 1418 A.H., corresponding to 7-8 May 1997 A.D., after making some changes in the draft.",
+    "type": "rule",
+    "keywords": [
+      "Shari’a Committee",
+      "exposure draft",
+      "date",
+      "amendments"
+    ]
+  },
+  {
+    "text": "The Accounting and Auditing Standards Board adopted the proposed standard in its meeting No. (13) held on 10-11 Safar 1418 A.H., corresponding to 15-16 June 1997 A.D.",
+    "type": "rule",
+    "keywords": [
+      "Accounting and Auditing Standards Board",
+      "standard",
+      "date"
+    ]
+  },
+  {
+    "text": "Financial Accounting Standard No. (7): Salam and Parallel Salam\n269\nAppendix (B)\nJuristic Rules of Salam\nand Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Salam",
+      "Parallel Salam",
+      "Juristic Rules"
+    ]
+  },
+  {
+    "text": "1. Definition\nSalam and Salaf (borrowing) are of the same meaning. Salam is a type of\nsale and it can be defined as:\n“Purchase of a commodity for deferred delivery in exchange for immediate\npayment according to specified conditions”,\npayment according to specified conditions”,(2)\n(2) or “Sale of a commodity for\nor “Sale of a commodity for\ndeferred delivery in exchange for immediate payment”.",
+    "type": "definition",
+    "keywords": [
+      "Salam",
+      "definition",
+      "deferred delivery",
+      "immediate payment"
+    ]
+  },
+  {
+    "text": "2. Legitimacy\nSalam sale has its legitimacy from:\n2/1 Qur`an and Sunnah.\n2/1 Qur`an and Sunnah.(3)\n(3)",
+    "type": "juristic",
+    "keywords": [
+      "Salam",
+      "legitimacy",
+      "Qur'an",
+      "Sunnah"
+    ]
+  },
+  {
+    "text": "2/2 Ijma’ (consensus). Ibn Al-Mundhir said: “All authoritative Fuqaha\n(jurists) unanimously agreed that Salam is considered permissible”.\n(jurists) unanimously agreed that Salam is considered permissible”.(4)\n(4)",
+    "type": "juristic",
+    "keywords": [
+      "Salam",
+      "legitimacy",
+      "Ijma",
+      "consensus",
+      "permissible"
+    ]
+  },
+  {
+    "text": "2/3 On the wisdom of its legitimacy, Ibn Qudamah said :“Because people\nhad a need for (Salam) and because farmers, market gardeners and\ntradesmen needed money for their living expenses and to spend on\ntheir businesses to bring them to fruition, and so faced financial\nneed, Salam was made permissible so that they could benefit from\nit as well as Al-Muslam having the benefit of its permissibility.\nit as well as Al-Muslam having the benefit of its permissibility.(5)\n(5)",
+    "type": "juristic",
+    "keywords": [
+      "Salam",
+      "legitimacy",
+      "wisdom",
+      "benefit",
+      "permissibility"
+    ]
+  },
+  {
+    "text": "Financial Accounting Standard No. (7): Salam and Parallel Salam\n270\nTherefore, Salam draws its legitimacy from the strongest Islamic\nsources of legislation. It is legitimate as a general rule in conformity\nwith general principles of Shari’a.\nwith general principles of Shari’a.(6)\n(6)",
+    "type": "juristic",
+    "keywords": [
+      "Salam",
+      "legitimacy",
+      "Islamic sources",
+      "Shari'a"
+    ]
+  },
+  {
+    "text": "3. Capital of Salam\nThe validity of a Salam contract is dependent on satisfying the following\nconditions:\n3/1 The capital should be known.",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "contract",
+      "conditions",
+      "capital",
+      "known"
+    ]
+  },
+  {
+    "text": "The commodity to be supplied should be known as to kind, type,\nquality and amount. The original rule regarding payment is that\nquality and amount. The original rule regarding payment is that it it\nshould be in cash. Fuqaha have differed as to the permissibility\nshould be in cash. Fuqaha have differed as to the permissibility of\nof\npayment in the form of trading assets. Some Fuqaha have\npayment in the form of trading assets. Some Fuqaha have considered\nconsidered\nit it permissible, and this is the view adopted in preparing this standard.\npermissible, and this is the view adopted in preparing this standard.\nMalikis have also allowed payment to be in the form of a benefit in\nkind, such as the benefit of living in a house.\nkind, such as the benefit of living in a house.(7)\n(7)",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "commodity",
+      "payment",
+      "cash",
+      "trading assets",
+      "Malikis"
+    ]
+  },
+  {
+    "text": "3/2 Receipt of Salam payment\n3/2/1 The majority of Fuqaha specify that the receipt of the Salam\npayment should be at the place where the contract is established.\nThis is in consideration of the seller’s need and to prevent\nthe introduction of debt into the consideration given by Al-\nMuslam (buyer). In particular, the Salam payment can not be\nin the form of cancellation of debt due from Al-Muslam Ileihi.\nThis is a precaution against Riba.\nThis is a precaution against Riba.(8)\n(8)",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "payment",
+      "contract",
+      "debt",
+      "Riba"
+    ]
+  },
+  {
+    "text": "3/2/2 The Malikis have permitted a short delay in making the Salam\npayment.\npayment.(9)\n(9)",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "payment",
+      "Malikis",
+      "delay"
+    ]
+  },
+  {
+    "text": "4. Al-Muslam Fihi\nValidity of the Salam contract is dependent on satisfying the following\nconditions and terms relating to\nconditions and terms relating to Al-Muslam Fihi\nAl-Muslam Fihi:",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "contract",
+      "conditions",
+      "terms",
+      "Al-Muslam Fihi"
+    ]
+  },
+  {
+    "text": "4/1 It should be subject to specification and can be recognized as a debt.\n4/1 It should be subject to specification and can be recognized as a debt.(10)\n(10)",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "specification",
+      "debt"
+    ]
+  },
+  {
+    "text": "4/2 It should be subject to identification so as to negate lack of knowledge\nof its kind (e.g., wheat or cotton), type (e.g., Syrian wheat), and\nquality of a type (e.g., superior, medium or inferior Syrian wheat). It\nshould also be known as to amount.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "identification",
+      "kind",
+      "type",
+      "quality",
+      "amount"
+    ]
+  },
+  {
+    "text": "4/3 Deferring the delivery of\n4/3 Deferring the delivery of Al-Muslam Fihi\nAl-Muslam Fihi",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "delivery",
+      "deferring"
+    ]
+  },
+  {
+    "text": "4/3/1 The majority of Fuqaha make it a condition that the delivery\nof\nof Al-Muslam Fihi\nAl-Muslam Fihi should be deferred to a future date. This is\nshould be deferred to a future date. This is\nalso the view adopted in this standard.\nalso the view adopted in this standard.(11)\n(11)",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "delivery",
+      "deferred",
+      "future date"
+    ]
+  },
+  {
+    "text": "4/3/2 The Shafis have permitted prompt delivery of Salam.\n4/3/2 The Shafis have permitted prompt delivery of Salam.(12)\n(12)",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "delivery",
+      "Shafis",
+      "prompt delivery"
+    ]
+  },
+  {
+    "text": "4/4 Permissibility of specifying the future date of delivering Al-Muslam\nFihi.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "future date",
+      "delivery"
+    ]
+  },
+  {
+    "text": "Fuqaha have agreed that specifying the future date of delivery is\nconsidered permissible; for example, the last day in the month of\nOctober 1996. Fuqaha have also agreed that the delivery should not\nbe contingent on an unknown event; for example, the solvency or\nthe arrival of another person. However, Fuqaha have differed on the\nissue of the lack of specificity that is considered permissible with\nregard to the delivery date of\nregard to the delivery date of Al-Muslam Fihi\nAl-Muslam Fihi; for example, during\n; for example, during\nthe harvesting season or during the time of Hajj (pilgrimage). The\nmajority of Fuqaha have required a greater degree of specificity of\nthe delivery date, but the Malikis considered that a range of possible\ndelivery dates is acceptable and so did the Hanbalis in one of their\nversions. It is the latter view that has been adopted in this standard.\nversions. It is the latter view that has been adopted in this standard.(13)\n(13)",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "delivery",
+      "future date",
+      "specificity",
+      "Malikis",
+      "Hanbalis"
+    ]
+  },
+  {
+    "text": "4/5 The future date of delivery should be fixed to match the time when\nAl-Muslam Fihi\nAl-Muslam Fihi would most likely be commonly available in order\nwould most likely be commonly available in order\nto prevent Gharar (uncertainty) and to enable Al-Muslam\nto prevent Gharar (uncertainty) and to enable Al-Muslam Ileihi\nIleihi\nto discharge his obligation. The Hanafis stipulate that the\nto discharge his obligation. The Hanafis stipulate that the future\nfuture",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "delivery",
+      "future date",
+      "Gharar",
+      "Hanafis",
+      "obligation"
+    ]
+  },
+  {
+    "text": "Financial Accounting Standard No. (7): Salam and Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Salam",
+      "Parallel Salam",
+      "Financial Accounting Standard"
+    ]
+  },
+  {
+    "text": "4/8 Sale of Al-Muslam Fihi before receiving it",
+    "type": "misc",
+    "keywords": [
+      "Sale",
+      "Al-Muslam Fihi",
+      "Receiving"
+    ]
+  },
+  {
+    "text": "4/8/1 This is not considered permissible by the majority of Fuqaha because of the rule that prevents the sale of food, as well as all movable items, before it is received. This is because it is not considered permissible to earn a profit without entering into an obligation to deliver.",
+    "type": "rule",
+    "keywords": [
+      "Sale",
+      "Fuqaha",
+      "Food",
+      "Movable items",
+      "Profit",
+      "Delivery"
+    ]
+  },
+  {
+    "text": "4/8/2 The Malikis agreed with the majority of Fuqaha on the prohi- bition of selling Al-Muslam Fihi before it is received but only if Al-Muslam Fihi is food, otherwise for them it is permitted providing the following conditions are satisfied:",
+    "type": "juristic",
+    "keywords": [
+      "Malikis",
+      "Fuqaha",
+      "Sale",
+      "Al-Muslam Fihi",
+      "Food",
+      "Conditions"
+    ]
+  },
+  {
+    "text": "4/8/2/1 In the case of a sale back to Al-Muslam Ileihi, this is considered permissible either at the contract price or lower.",
+    "type": "rule",
+    "keywords": [
+      "Sale",
+      "Al-Muslam Ileihi",
+      "Contract price"
+    ]
+  },
+  {
+    "text": "4/8/2/2 In the case of a sale to a third party (not Al-Muslam Ileihi), it is considered permissible to sell Al-Muslam Fihi at the contract price (which is required if the quality is similar to that specified in the contract) or at a higher or lower price (if the quality is different from that specified in the contract).",
+    "type": "rule",
+    "keywords": [
+      "Sale",
+      "Third party",
+      "Al-Muslam Fihi",
+      "Contract price",
+      "Quality"
+    ]
+  },
+  {
+    "text": "4/9 Replacement of Al-Muslam Fihi by substituting another kind of goods:",
+    "type": "misc",
+    "keywords": [
+      "Replacement",
+      "Al-Muslam Fihi",
+      "Substitution",
+      "Goods"
+    ]
+  },
+  {
+    "text": "4/9/1 The majority of Fuqaha have prohibited the replacement of Al-Muslam Fihi before it is received except by substituting another kind of similar goods. This is because substitution is considered as a form of sale and according to their juris- prudence an individual cannot sell what he does not own. However, it is considered permissible to replace Al-Muslam Fihi by substituting similar goods that are of the same, low- er or better quality as this is not considered as a sale, but as a form of satisfactory fulfilment and out of necessity.",
+    "type": "rule",
+    "keywords": [
+      "Fuqaha",
+      "Replacement",
+      "Al-Muslam Fihi",
+      "Substitution",
+      "Sale",
+      "Ownership",
+      "Quality"
+    ]
+  },
+  {
+    "text": "4/9/2 The Malikis have agreed with the majority of Fuqaha on the prohibition of replacing Al-Muslam Fihi if it is food; however, they have made the replacement of Al-Muslam Fihi by a substitution permissible if it is not food, based on the views of their school of Fiqh (jurisprudence) which permits the sale of goods before they are received.",
+    "type": "juristic",
+    "keywords": [
+      "Malikis",
+      "Fuqaha",
+      "Replacement",
+      "Al-Muslam Fihi",
+      "Food",
+      "Fiqh",
+      "Sale"
+    ]
+  },
+  {
+    "text": "4/9/2/1 If the substitution is made with Al-Muslam Ileihi, then it would be considered permissible on condition that: ■ The substitute is similar to Al-Muslam Fihi or of a lower quality, in order to negate suspicion of Riba.",
+    "type": "rule",
+    "keywords": [
+      "Substitution",
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "Riba",
+      "Quality"
+    ]
+  },
+  {
+    "text": "■ Al-Muslam should take delivery of the substitute in order that it should not lead to the exchange of debt against debt.",
+    "type": "rule",
+    "keywords": [
+      "Delivery",
+      "Substitute",
+      "Debt",
+      "Riba"
+    ]
+  },
+  {
+    "text": "■ The relation between the substitute and the price should be free of Riba.",
+    "type": "rule",
+    "keywords": [
+      "Substitute",
+      "Price",
+      "Riba"
+    ]
+  },
+  {
+    "text": "4/9/3 Some contemporary Fuqaha are of the view that substitution is considered permissible whether or not Al-Muslam Fihi is food subject to the following two conditions:",
+    "type": "juristic",
+    "keywords": [
+      "Fuqaha",
+      "Substitution",
+      "Al-Muslam Fihi",
+      "Food",
+      "Conditions"
+    ]
+  },
+  {
+    "text": "4/9/3/1 With regard to kind, suitability of the substitute to be considered as Al-Muslam Fihi as specified in the Salam contract.",
+    "type": "rule",
+    "keywords": [
+      "Kind",
+      "Substitute",
+      "Al-Muslam Fihi",
+      "Salam contract"
+    ]
+  },
+  {
+    "text": "4/9/3/2 With regard to quantity, the substitute should not be more than Al-Muslam Fihi so that the purchaser does not obtain additional benefit.",
+    "type": "rule",
+    "keywords": [
+      "Quantity",
+      "Substitute",
+      "Al-Muslam Fihi",
+      "Purchaser",
+      "Benefit"
+    ]
+  },
+  {
+    "text": "5. Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Parallel Salam"
+    ]
+  },
+  {
+    "text": "5/1 The Shari’a supervisory board of Al Rajhi Banking and Investment Corporation issued a Fatwa permitting the practice of parallel Salam on condition that the execution of the second Salam contract is not made dependent on the execution of the first one.",
+    "type": "rule",
+    "keywords": [
+      "Shari’a supervisory board",
+      "Fatwa",
+      "Parallel Salam",
+      "Salam contract"
+    ]
+  },
+  {
+    "text": "5/2 Some contemporary Fuqaha have prohibited parallel Salam, particularly if it is for the purpose of trading and such a transaction becomes recurrent, as this may be suspected as involving Riba.",
+    "type": "juristic",
+    "keywords": [
+      "Fuqaha",
+      "Parallel Salam",
+      "Trading",
+      "Riba"
+    ]
+  },
+  {
+    "text": "6. General Rules",
+    "type": "misc",
+    "keywords": [
+      "General Rules"
+    ]
+  },
+  {
+    "text": "6/1 Nullification or cancellation of the contract",
+    "type": "misc",
+    "keywords": [
+      "Nullification",
+      "Cancellation",
+      "Contract"
+    ]
+  },
+  {
+    "text": "This refers to the cancellation of the contract and reversion to the situation of the two parties before entering into the Salam contract. Complete nullification of the delivery of Al-Muslam Fihi in return for repayment of the full amount of the capital of Salam is unanimously",
+    "type": "treatment",
+    "keywords": [
+      "Cancellation",
+      "Contract",
+      "Salam",
+      "Al-Muslam Fihi",
+      "Delivery",
+      "Repayment"
+    ]
+  },
+  {
+    "text": "considered permissible according to the majority of Fuqaha. (23)",
+    "type": "juristic",
+    "keywords": [
+      "permissible",
+      "Fuqaha",
+      "majority"
+    ]
+  },
+  {
+    "text": "6/2 Delivery of Al-Muslam Fihi before or on its due date",
+    "type": "misc",
+    "keywords": [
+      "delivery",
+      "Al-Muslam Fihi",
+      "due date"
+    ]
+  },
+  {
+    "text": "6/2/1 Al-Muslam Ileihi should deliver Al-Muslam Fihi on its due date and according to the agreed quality and quantity, and Al- Muslam should accept it.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "due date",
+      "quality",
+      "quantity",
+      "acceptance"
+    ]
+  },
+  {
+    "text": "6/2/2 If Al-Muslam Ileihi delivers a superior quality of Al-Muslam Fihi, then Al-Muslam should accept it on condition that Al- Muslam Ileihi does not ask for a higher price in return for the extra quality because this is considered as a form of satisfactory fulfilment.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "superior quality",
+      "acceptance",
+      "higher price",
+      "satisfactory fulfilment"
+    ]
+  },
+  {
+    "text": "6/2/3 If Al-Muslam Ileihi delivers an inferior quality of Al-Muslam Fihi, then Al-Muslam has the option to accept Al-Muslam Fihi on condition that he does not ask for a lower price in return for the inferior quality because he has accepted it as satisfactory fulfilment.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "inferior quality",
+      "option",
+      "lower price",
+      "satisfactory fulfilment"
+    ]
+  },
+  {
+    "text": "6/2/4 Fuqaha have differed on whether or not it is considered per- missible for Al-Muslam Ileihi to deliver a different type of Al-Muslam Fihi than the one agreed upon.",
+    "type": "juristic",
+    "keywords": [
+      "Fuqaha",
+      "permissible",
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "different type"
+    ]
+  },
+  {
+    "text": "6/2/5 It is considered permissible to deliver Al-Muslam Fihi before its due date on condition that the following are satisfied:",
+    "type": "rule",
+    "keywords": [
+      "permissible",
+      "Al-Muslam Fihi",
+      "due date",
+      "conditions"
+    ]
+  },
+  {
+    "text": "6/2/5/1 Al-Muslam Fihi should be of the agreed upon quality and quantity.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "quality",
+      "quantity"
+    ]
+  },
+  {
+    "text": "6/2/5/2 Al-Muslam Fihi should be neither of superior quality nor in greater quantity.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "superior quality",
+      "greater quantity"
+    ]
+  },
+  {
+    "text": "6/2/5/3 Al-Muslam Fihi should be neither of an inferior quality nor in lesser quantity because this would be similar to (23) “Al-Bada`i’”, [7: 3179]; and “Al-Muhadhdhab”, [1: 302]. Shari’a (form of Riba).",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "inferior quality",
+      "lesser quantity",
+      "Riba",
+      "Shari’a"
+    ]
+  },
+  {
+    "text": "The Accounting Standards Committee has reviewed the alternatives proposed in the preliminary study proposed in the preliminary study(25) to be adopted in the accounting treat- to be adopted in the accounting treat- ments of Salam and Parallel Salam. The Accounting Standards Committee recommended the adoption of the alternatives which were considered to be in compliance with the provisions of the previous Statement of Financial Accounting No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and Statement of Fi- nancial Accounting No. (2): Concepts of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts).",
+    "type": "misc",
+    "keywords": [
+      "Accounting Standards Committee",
+      "Salam",
+      "Parallel Salam",
+      "Statement of Objectives",
+      "Statement of Concepts"
+    ]
+  },
+  {
+    "text": "The condition that the capital of Salam should be known in a form that determines it constitutes the basis which has been taken to measure the value by which the capital of Salam should be recorded in the Islamic bank’s books when it is paid (in case of Salam) or when it is received (in case of Parallel Salam).",
+    "type": "rule",
+    "keywords": [
+      "Salam",
+      "capital",
+      "Islamic bank",
+      "Parallel Salam"
+    ]
+  },
+  {
+    "text": "If the capital of Salam is in the form of cash, it is identified by the type of currency and its quantity, but if it is in the form of kind or benefit, it is measured by the fair value of such assets or benefits according to what the two contracting parties agree upon.",
+    "type": "treatment",
+    "keywords": [
+      "Salam",
+      "capital",
+      "cash",
+      "fair value"
+    ]
+  },
+  {
+    "text": "The use of the fair value instead of the historical cost provides users of financial statements with useful information that helps them in their decisions when dealing with Islamic banks.",
+    "type": "misc",
+    "keywords": [
+      "fair value",
+      "historical cost",
+      "financial statements",
+      "Islamic banks"
+    ]
+  },
+  {
+    "text": "Such an objective is in line with what is provided for in the previous Statement of Objectives.",
+    "type": "misc",
+    "keywords": [
+      "Statement of Objectives"
+    ]
+  },
+  {
+    "text": "The use of the fair value also leads to the application of the representational faithfulness concept provided for in the previous Statement of Concepts.",
+    "type": "misc",
+    "keywords": [
+      "fair value",
+      "representational faithfulness",
+      "Statement of Concepts"
+    ]
+  },
+  {
+    "text": "Historical cost has been chosen to measure the capital of Salam financing and parallel Salam transactions at the end of a financial period because of the reliability of the information provided by this attribute.",
+    "type": "treatment",
+    "keywords": [
+      "Historical cost",
+      "Salam",
+      "Parallel Salam"
+    ]
+  },
+  {
+    "text": "It also conforms with what is provided for in the provisions of the previous Statement of Concepts.",
+    "type": "misc",
+    "keywords": [
+      "Statement of Concepts"
+    ]
+  },
+  {
+    "text": "However, to ensure reliability of the information provided in the financial statements, the standard provides that if it becomes clear to the Islamic bank that there is a strong probability that Al-Muslam Ileihi will not deliver not deliver Al-Muslam Fihi Al-Muslam Fihi, in full or in part, or there is a strong probability that the value of the that the value of the Al-Muslam Fihi Al-Muslam Fihi will decline, a provision should be made of the amount of the estimated deficit.",
+    "type": "rule",
+    "keywords": [
+      "financial statements",
+      "Islamic bank",
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "provision"
+    ]
+  },
+  {
+    "text": "Making such a provision will help in providing information that helps in predicting the Islamic bank’s future cash flows resulting from Salam financing.",
+    "type": "misc",
+    "keywords": [
+      "provision",
+      "Islamic bank",
+      "cash flows",
+      "Salam financing"
+    ]
+  },
+  {
+    "text": "The predictive value of information represents one of the qualitative characteristics provided for in the previous Statement of Concepts to achieve reliability.",
+    "type": "misc",
+    "keywords": [
+      "predictive value",
+      "qualitative characteristics",
+      "Statement of Concepts"
+    ]
+  },
+  {
+    "text": "To provide understandable and comprehensible information, which are qualitative characteristics that accounting information should have are qualitative characteristics that accounting information should have, the standard requires that the consideration paid as capital for Salam financing transactions should be presented in the financial statements under the heading Salam Financing.",
+    "type": "rule",
+    "keywords": [
+      "qualitative characteristics",
+      "accounting information",
+      "Salam financing",
+      "financial statements"
+    ]
+  },
+  {
+    "text": "This conforms with the financing nature of the Salam contract which is based on the need by Al-Muslam Ileihi for capital to bridge the financing gap between the time of contracting and receipt of the capital and the date agreed upon to deliver Al-Muslam Fihi to the Islamic bank.",
+    "type": "misc",
+    "keywords": [
+      "Salam contract",
+      "Al-Muslam Ileihi",
+      "capital",
+      "Al-Muslam Fihi",
+      "Islamic bank"
+    ]
+  },
+  {
+    "text": "In case the Islamic bank receives Al-Muslam Fihi according to the agreed upon quantities under the contract, the historical cost is used as the basis for measuring and recording the assets at the time of possessing them.",
+    "type": "rule",
+    "keywords": [
+      "Islamic bank",
+      "Al-Muslam Fihi",
+      "historical cost",
+      "assets"
+    ]
+  },
+  {
+    "text": "Accordingly, Al-Muslam Fihi acquired by the Islamic bank through Salam financing is measured at the time of receiving it at its historical cost which is equivalent to the Salam capital paid by the Islamic bank.",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "Islamic bank",
+      "Salam financing",
+      "historical cost",
+      "Salam capital"
+    ]
+  },
+  {
+    "text": "In the case of the receipt of a similar kind of Al-Muslam Fihi, but of a different quality, if the market value (or the fair value if the market value is not available) of Al-Muslam Fihi is equal to the value of the contracted Al- Muslam Fihi, then the received Al-Muslam Fihi is measured and recorded at book value.",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "market value",
+      "fair value",
+      "book value"
+    ]
+  },
+  {
+    "text": "However, if the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi is measured and recorded at market value (or the fair value if the market value is not available) at the time of delivery and the difference is recognized as a loss.",
+    "type": "treatment",
+    "keywords": [
+      "market value",
+      "fair value",
+      "Al-Muslam Fihi",
+      "book value",
+      "loss"
+    ]
+  },
+  {
+    "text": "This is because the decline in the value of the asset should be taken into account by writing down the book value of the asset to represent the cash equivalent value.",
+    "type": "misc",
+    "keywords": [
+      "asset",
+      "book value",
+      "cash equivalent value"
+    ]
+  },
+  {
+    "text": "This measurement attribute is expected to provided users of the financial statements with relevant information that helps them in their decisions.",
+    "type": "misc",
+    "keywords": [
+      "financial statements",
+      "relevant information"
+    ]
+  },
+  {
+    "text": "This is in line with the provisions of the previous Statement of Concepts regarding the qualitative characteristics of accounting information which the financial statements of Islamic banks should contain.",
+    "type": "misc",
+    "keywords": [
+      "Statement of Concepts",
+      "qualitative characteristics",
+      "accounting information",
+      "financial statements",
+      "Islamic banks"
+    ]
+  },
+  {
+    "text": "The previous Statement of Concepts gives guidance as to when gains and losses, which are basic elements of the income statement, should be recognized.",
+    "type": "misc",
+    "keywords": [
+      "Statement of Concepts",
+      "gains",
+      "losses",
+      "income statement"
+    ]
+  },
+  {
+    "text": "A loss should, therefore, be recognized once a reciprocal transfer takes place between the Islamic bank and Al-Muslam Ileihi at the time of receiving the substitute of Al-Muslam Fihi.",
+    "type": "treatment",
+    "keywords": [
+      "loss",
+      "Islamic bank",
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi"
+    ]
+  },
+  {
+    "text": "Accordingly, once the Islamic bank accepts the substitute of Al-Muslam Fihi which has a market value lower than the book value of the contracted Al-Muslam Fihi, the difference should be recognized as a loss incurred by the Islamic bank.",
+    "type": "treatment",
+    "keywords": [
+      "Islamic bank",
+      "Al-Muslam Fihi",
+      "market value",
+      "book value",
+      "loss"
+    ]
+  },
+  {
+    "text": "The Standard differentiates between the failure of Al-Muslam Ileihi to deliver Al-Muslam Fihi due to negligence and misconduct and any other failure to receive Al-Muslam Fihi or part of it at the due date of delivery.",
+    "type": "rule",
+    "keywords": [
+      "Al-Muslam Ileihi",
+      "Al-Muslam Fihi",
+      "negligence",
+      "misconduct"
+    ]
+  },
+  {
+    "text": "The accounting treatment in the standard is in line with one of the objectives of financial accounting which states: “Determination of the rights and liabilities of all related parties, including any rights ensuing from uncompleted transactions and activities, in accordance with the provisions of Shari’a and its principles of fairness, justice and adherence to the ethics of Islamic dealings.",
+    "type": "misc",
+    "keywords": [
+      "accounting treatment",
+      "financial accounting",
+      "Shari’a",
+      "rights",
+      "liabilities"
+    ]
+  },
+  {
+    "text": "At the end of a financial period, Al-Muslam Fihi is recorded at historical cost or cash equivalent value, whichever is lower.",
+    "type": "treatment",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "historical cost",
+      "cash equivalent value"
+    ]
+  },
+  {
+    "text": "This should provide relevant information, which is one of the characteristics of the information that financial statements of Islamic banks should contain.",
+    "type": "misc",
+    "keywords": [
+      "relevant information",
+      "financial statements",
+      "Islamic banks"
+    ]
+  },
+  {
+    "text": "Financial Accounting Standard No. (7): Salam and Parallel Salam",
+    "type": "misc",
+    "keywords": [
+      "Financial Accounting Standard",
+      "Salam",
+      "Parallel Salam"
+    ]
+  },
+  {
+    "text": "281",
+    "type": "misc",
+    "keywords": [
+      "page number"
+    ]
+  },
+  {
+    "text": "Appendix (E)",
+    "type": "misc",
+    "keywords": [
+      "Appendix"
+    ]
+  },
+  {
+    "text": "Definitions",
+    "type": "misc",
+    "keywords": [
+      "Definitions"
+    ]
+  },
+  {
+    "text": "Salam\nPurchase of a commodity for deferred delivery in exchange for immediate\npayment according to specified conditions or sale of a commodity for deferred\ndelivery in exchange for immediate payment.",
+    "type": "definition",
+    "keywords": [
+      "Salam",
+      "deferred delivery",
+      "immediate payment",
+      "commodity"
+    ]
+  },
+  {
+    "text": "Al-Muslam Fihi\nThe commodity to be delivered.",
+    "type": "definition",
+    "keywords": [
+      "Al-Muslam Fihi",
+      "commodity",
+      "delivery"
+    ]
+  },
+  {
+    "text": "Al-Muslam Ileihi\nThe seller.",
+    "type": "definition",
+    "keywords": [
+      "Al-Muslam Ileihi",
+      "seller"
+    ]
+  },
+  {
+    "text": "Al-Muslam\nThe purchaser.",
+    "type": "definition",
+    "keywords": [
+      "Al-Muslam",
+      "purchaser"
+    ]
+  },
+  {
+    "text": "Ra`s Al-Mal\nCapital (cost) paid (in cash, kind or benefit) in a Salam contract; i.e., price.",
+    "type": "definition",
+    "keywords": [
+      "Ra`s Al-Mal",
+      "Capital",
+      "cost",
+      "Salam contract",
+      "price"
+    ]
+  },
+  {
+    "text": "Parallel Salam\nA Salam contract whereby Al-Muslam Ileihi depends, for executing his\nobligation, on receiving what is due to him –in his capacity as Al-Muslam–\nfrom a sale in a previous Salam contract, without making the execution of\nthe second Salam contract dependent on the execution of the first one.",
+    "type": "definition",
+    "keywords": [
+      "Parallel Salam",
+      "Al-Muslam Ileihi",
+      "Salam contract",
+      "obligation"
+    ]
+  }
+]
